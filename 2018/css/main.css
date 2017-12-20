@@ -6,13 +6,16 @@ body {
     font-family: 'Verdana', 'sans-serif';
 }
 
+/*div.nav-wrapper{*/
+    /*padding: 10px;*/
+/*}*/
+
 div.global-wrapper{
     padding-left: 10%;
     padding-right: 10%;
-    padding-top: 15px;
+    /*padding-top: 15px;*/
     padding-bottom: 5%;
     background-color: white;
-
 }
 
 div.person{
@@ -20,25 +23,23 @@ div.person{
     border-radius: 0.3rem;
     margin-bottom: 1rem;
 }
-
-.person .name{
-    font-weight: bold;
-}
-
-.person-hover{
+.person:hover{
     background-color: #eeeeee;
     /*box-shadow: 2px 4px;*/
+}
+.person .name{
+    font-weight: bold;
 }
 
 
 nav ul, footer ul {
     font-family: 'Verdana', 'sans-serif';
     /*font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
-    padding: 0px;
-    list-style: none;
+    padding: inherit;
+    margin: 0%;
     font-weight: bold;
 }
-nav ul li, footer ul li {
+nav ul li, footer ul li, .nav-wrapper {
     display: inline;
     margin-right: 20px;
 }
@@ -50,7 +51,12 @@ nav ul li, footer ul li {
 
 .subtitle {
     margin-top: 40px;
-    margin-bottom: 20px;
+    /*margin-bottom: 20px;*/
+}
+
+hr.custom-line{
+    margin-bottom: 1.25rem !important;
+    margin-top: 0.1rem !important;
 }
 
 p {
@@ -66,3 +72,90 @@ footer {
 img{
     width: 100%;
 }
+
+.twitter{
+    float: right;
+    margin: 0px;
+}
+.twitter a{
+    font-size: 19px;
+    padding: 6px;
+    margin: 0px !important;
+}
+
+
+/*.nav-wrapper {*/
+    /*overflow: hidden;*/
+    /*background-color: #333;*/
+    /*position: fixed; !* Set the navbar to fixed position *!*/
+    /*top: 0; !* Position the navbar at the top of the page *!*/
+/*}*/
+
+/*!* Links inside the navbar *!*/
+/*.nav-wrapper a {*/
+    /*float: left;*/
+    /*display: block;*/
+    /*text-align: center;*/
+    /*padding: 14px 16px;*/
+/*}*/
+/*.global-wrapper{*/
+    /*margin-top: 50px; !* Add a top margin to avoid content overlay *!*/
+/*}*/
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  border-radius: 4.3rem;
+}
+
+
+/*li a:hover:not(.active) {*/
+    /*background-color: #111;*/
+/*}*/
+
+
+.image-container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.bottom-right {
+    padding: 5px;
+    position: absolute;
+    margin-bottom: 10px;
+    bottom: 5px;
+    right: 0px;
+    left: 10%;
+    background-color: antiquewhite;
+    color: black;
+    opacity: 0.85;
+}
+
+
+/*.top-left {*/
+    /*padding-top: 5px;*/
+    /*padding-bottom: 5px;*/
+    /*position: absolute;*/
+    /*margin-bottom: 0%;*/
+    /*bottom: 0px;*/
+    /*right: 0px;*/
+    /*background-color: antiquewhite;*/
+    /*color: black;*/
+    /*opacity: 0.85;*/
+/*}*/
