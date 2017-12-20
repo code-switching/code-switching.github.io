@@ -1,0 +1,7 @@
+# Site settings
+title: CS Workshop - 2018
+email: codeswitchingnlp@gmail.com
+description: Third Workshop on Computational Approaches to Linguistic Code-switching
+
+plugins:
+  - jemoji
