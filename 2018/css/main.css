@@ -18,7 +18,7 @@ div.global-wrapper{
     background-color: white;
 }
 
-div.person{
+.person{
     padding: 0.5rem 1rem;
     border-radius: 0.3rem;
     margin-bottom: 1rem;
@@ -30,6 +30,18 @@ div.person{
 .person .name{
     font-weight: bold;
 }
+
+.person-pc{
+    padding-left: 1rem;
+    border-radius: 0.3rem;
+}
+.person-pc:hover{
+    background-color: #eeeeee;
+}
+.person-pc .name{
+    font-weight: bold;
+}
+
 
 
 nav ul, footer ul {
