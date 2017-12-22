@@ -42,6 +42,9 @@ div.global-wrapper{
     font-weight: bold;
 }
 
+.image-caption{
+    text-align: right;
+}
 
 
 nav ul, footer ul {
