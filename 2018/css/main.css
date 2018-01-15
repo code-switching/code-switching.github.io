@@ -18,10 +18,18 @@ div.global-wrapper{
     background-color: white;
 }
 
+.jumbotron {
+    padding: 2rem 2rem !important;
+}
+
+.bold{
+    font-weight: bold;
+}
+
 .person{
     padding: 0.5rem 1rem;
     border-radius: 0.3rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
 }
 .person:hover{
     background-color: #eeeeee;

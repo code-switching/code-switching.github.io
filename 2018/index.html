@@ -43,14 +43,34 @@
 
                 <div class="page-content">
 
+                    <div class="jumbotron">
+                        <h4>Workshop Dates</h4>
+                        <hr class="custom-line">
+                        <ul>
+                            <li><span class="text-primary">Apr 30:</span>&nbsp;Long and short paper submission deadline</li>
+                            <li><span class="text-primary">May 14:</span>&nbsp;Acceptance notification</li>
+                            <li><span class="text-primary">May 21:</span>&nbsp;Camera ready</li>
+                        </ul>
+
+                        <h4>Shared Task Dates</h4>
+                        <hr class="custom-line">
+                        <ul>
+                            <li><span class="text-primary">Feb 8:</span>&nbsp;Training data release</li>
+                            <li><span class="text-primary">Mar 23:</span>&nbsp;Test phase starts</li>
+                            <li><span class="text-primary">Apr 6:</span>&nbsp;Test phase ends</li>
+                            <li><span class="text-primary">Apr 20:</span>&nbsp;Overview Paper, 1st draft</li>
+                            <li><span class="text-primary">May 4:</span>&nbsp;System description paper</li>
+                            <li><span class="text-primary">May 14:</span>&nbsp;Author feedback</li>
+                            <li><span class="text-primary">May 21:</span>&nbsp;Camera ready</li>
+                        </ul>
+                    </div>
+
+
                     <div class="intro">
                         <h2 class="subtitle"><a href="#">Introduction</a></h2>
                         <hr class="custom-line">
                         <p>Code-switching (CS) is the phenomenon by which multilingual speakers switch back and forth between their common languages in written or spoken communication. CS is typically present on the intersentential, intrasentential (mixing of words from multiple languages in the same utterance) and even morphological (mixing of morphemes) levels. CS presents serious challenges for language technologies such as Parsing, Machine Translation (MT), Automatic Speech Recognition (ASR), information retrieval (IR) and extraction (IE), and semantic processing. Traditional techniques trained for one language quickly break down when there is input mixed in from another. Even for problems that are considered solved, such as language identification, or part of speech tagging, performance degrades at a rate proportional to the amount and level of the mixed-language present.</p>
-                        <p>CS is a ubiquitous phenomenon as it is pervasive in informal text communication such as newsgroups, tweets, blogs, and other social media of multilingual communities. Such genres are increasingly being studied as rich sources of social, commercial and political information. Apart from the informal genre challenge associated with such data within a single language processing scenario, the CS phenomenon adds another significant layer of complexity to the processing of the data. Efficiently and robustly processing CS data presents a new frontier for NLP algorithms on all levels. This workshop aims to bring together researchers interested in solving the problem and increase community awareness of the possible viable solutions to reduce the complexity of the phenomenon. The first workshop in CS took place in conjunction with EMNLP 2014. We received a total of 18 regular workshop submissions and ended up accepting 8. In 2016, the second workshop in CS was held along with EMNLP as well. In that occasion we received 19 regular workshop submissions from which 17 were accepted, while we had a total of nine participating teams for the shared task. We expect to keep growing the workshop by hosting the third edition in 2018.</p>
-                        <p>Recently, there has been a growing interest in studying Code Switching phenomenon and the challenges that come with it. During the Interspeech 2017 that was held in Sweden, there was a special session named Speech Technologies for Code-Switching in Multilingual Communities. The focus of this session was on accelerating the research activities for Code Switching phenomenon and the challenges it brings for the available language technologies. </p>
-
-                        <p>The workshop will invite contributions from researchers working in NLP approaches for the analysis and processing of mixed-language data especially with a focus on intrasentential code-switching. Topics of relevance to the workshop will include the following:</p>
+                        <p>This workshop aims to bring together researchers interested in solving the problem and increase community awareness of the possible viable solutions to reduce the complexity of the phenomenon. The workshop invites contributions from researchers working in NLP approaches for the analysis and processing of mixed-language data especially with a focus on intrasentential code-switching. Topics of relevance to the workshop will include the following:</p>
 
                         <ul>
                             <li>Development of linguistic resources to support research on code-switched data</li>
@@ -73,29 +93,33 @@
                     <div class="invited-speakers">
                         <h2 class="subtitle" id="invited-speakers-id"><a href="#invited-speakers-id">Invited Speakers</a></h2>
                         <hr class="custom-line">
-                        <p>TBD</p>
+                        <div class="alert alert-dismissible alert-info">
+                            <button type="button" class="close" data-dismiss="alert">&times;</button>
+                            <strong class="alert-link">Notice:</strong> Invited speakers will be added soon.
+                        </div>
                     </div>
 
                     <div class="shared-task">
                         <h2 class="subtitle" id="shared-task-id"><a href="#shared-task-id">Shared Task: Named Entity Recognition on Code-switched Data</a></h2>
                         <hr class="custom-line">
 
-                        <!--<div class="alert alert-dismissible alert-info">-->
-                            <!--<button type="button" class="close" data-dismiss="alert">&times;</button>-->
-                            <!--<strong class="alert-link">Note:</strong> Dates will be added as soon as they are ready.-->
-                        <!--</div>-->
-
                         <!--<p>In conjunction with the previous workshops, we organized two shared task on language identification in CS data. The tasks were well received by the computational linguistics community with a total of  32 system from 8 teams in the first edition, and 14 system from 9 teams in the second edition. The good results of the these tasks have enabled resources to the community at the language identification and part-of-speech tag level facilitating the study of the CS phenomena. </p>-->
-                        <p>In this occasion we plan to organize a Named Entity Recognition (NER) shared task in CS data with the purpose of providing even more resources to the community. The goal is to allow participants to explore the use of supervised, semi-supervised and/or unsupervised approaches to predict the entity types of CS data. We will make use of resources that were enabled by previous editions of this workshop. We will make available the CS language identification of the data plus its entity types. We will release the gold standard data for tuning and testing systems in the following language pairs: Spanish-English, Hindi-English, and Modern Standard Arabic-Egyptian (MSA-EGY).</p>
-                        <p>The majority of the data will come from social media environments such as blog data, discussion forum data, and commentary data. However, it is likely that each language combination will have additional data from a different genre.</p>
+                        <p>In this occasion we organize a Named Entity Recognition (NER) shared task in CS data with the purpose of providing even more resources to the community. The goal is to allow participants to explore the use of supervised, semi-supervised and/or unsupervised approaches to predict the entity types of CS data. We will release the gold standard data for tuning and testing systems in the following language pairs: <strong class="bold">Spanish-English (SPA-ENG)</strong>, and <strong class="bold">Modern Standard Arabic-Egyptian (MSA-EGY)</strong>. The majority of the data will come from social media environments such as blog data, discussion forum data, and commentary data. However, it is likely that each language combination will have additional data from a different genre.</p>
                         <p>Participants for this shared task will be required to submit output of their systems within a pre specified time window in order to qualify for evaluation in the shared task. They will also be required to submit a paper describing their system. </p>
 
-                        <h4 class="text-primary">Key dates</h4>
+                        <h4 class="text-primary">Entity Types</h4>
                         <ul>
-                            <li><span class="text-primary">Feb 8:</span>&nbsp;Training data release</li>
-                            <li><span class="text-primary">Mar 23:</span>&nbsp;Test phase starts</li>
-                            <li><span class="text-primary">Apr 6:</span>&nbsp;Test phase ends</li>
+                            <li><span class="text-primary">Person</span>&nbsp;</li>
+                            <li><span class="text-primary">Location</span>&nbsp;</li>
+                            <li><span class="text-primary">Organization</span>&nbsp;</li>
+                            <li><span class="text-primary">Group</span>&nbsp;</li>
+                            <li><span class="text-primary">Title</span>&nbsp;</li>
+                            <li><span class="text-primary">Product</span>&nbsp;</li>
+                            <li><span class="text-primary">Other</span>&nbsp;</li>
                         </ul>
+
+                        <p>Fill the <a class='bold' href="https://docs.google.com/forms/d/e/1FAIpQLSeq5yuDvSEKTgkHpCvJoFrArG6nj7PtOOHztORZBZNO_FRaPg/viewform">registration form</a> to participate in the shared task.</p>
+                        <p>Updates will be given through the workshop Google group: <a href="https://groups.google.com/forum/?hl=en#!forum/codeswitching_workshop">codeswitching_workshop@googlegroups.com</a>, and the Twitter account: <a href="https://twitter.com/WCALCS">@WCALCS</a></p>
                     </div>
 
                     <div class="program-committee">
