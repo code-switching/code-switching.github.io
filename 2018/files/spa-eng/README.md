@@ -30,19 +30,19 @@ We have defined the following 9 entity types:
     * Every entity that has employees
     * If the entity name can be any other category, you have to rely on the context to support 
     that the NE is an organization (e.g., Facebook as organization vs Facebook as the website product) 
-    * Do not confuse with **LOCATION** when it's about going to a restaurants, for example
+    * Do not confuse with **LOCATION** when it's about going to a restaurant, for example
     * E.g., Apple, Nissan, Facebook, etc.
 
-4. **PRODUCT:** devices, videogames, medicines, food produced by a company, any well-defined service, website accounts, etc.
+4. **PRODUCT:** devices, video games, medicines, food produced by a company, any well-defined service, website accounts, etc.
     * E.g., your Facebook, your Twitter, iPhone, etc.
     
 5. **GROUP:** sports teams, music bands, duets, etc.
     * Do not confuse sports teams with the team institution because context implies different behaviors (e.g., 
-    _"ManU invested on old trafford,"_ here ManU is not the team, but the organization)
+    _"ManU invested on Old Trafford,"_ here ManU is not the team, but the organization)
     * E.g., Real Madrid, PSG, Iron Maiden, etc.
     
 6. **EVENT:** concerts, award events, competitions, etc.
-    E.g., The Oscars, Super Bowl, World cup, Premier League, etc.
+    * E.g., The Oscars, Super Bowl, World cup, Premier League, etc.
 
 7. **TIME:** months, days of the week, seasons, etc. 
     * Exclude hours, minutes, etc.
@@ -55,7 +55,7 @@ We have defined the following 9 entity types:
 
 9. **Other:** any other NE that does not fit in the previous categories.
     * Use this only if you really need it
-    * This class is important because context can imply an NE, and even if it is not on the previous
+    * This class is important because context can imply an NE, and even if it is not in the previous
     classes, a general approach should be able to capture those NEs with this class.
 
 
@@ -73,9 +73,9 @@ Keep in mind the following aspects:
 
 4. This is Twitter data, and consequently, some NEs may be misspelled, or not written in a proper manner (not capital letters, missing hyphens, contractions, etc.). **DO NOT** discard possible NEs for those reasons.
 
-5. **DO NOT tag hashtags (words initiating with #) or tags (words initiating with @) as NEs**, they are intentionally ignored in this task. We will address this on future jobs. For instance, #ChicagoDP could have been selected, but it starts with a #, so we MUST skip it. 
+5. **DO NOT tag hashtags (tokens beginning with #) or tags (tokens beginning with @) as NEs**, they are intentionally ignored in this task. We will address this on future jobs. For instance, #ChicagoDP could have been selected, but it starts with a #, so we MUST skip it. 
 
-6. **DO NOT choose a category for a word just because the word itself describes such a category**. Instead, read the sentence carefully and think of what is the role of the word(s) in the sentence. For instance, people may say "I like my Samsung," for which the word Samsung is representing a PRODUCT instead of a ORGANIZATION.
+6. **DO NOT choose a category for a word just because the word itself describes such a category**. Instead, read the sentence carefully and think of what is the role of the word(s) in the sentence. For instance, people may say "I like my Samsung," for which the word Samsung is representing a PRODUCT instead of an ORGANIZATION.
 
 7. **DO NOT assume capital letters are always NE or part of an NE**. 
 
