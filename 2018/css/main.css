@@ -189,3 +189,9 @@ img{
     padding-left: 72px;
     background: url(update.png) top left no-repeat;
 }
+
+.new {
+    margin-left: -48px !important;
+    padding-left: 48px;
+    background: url(new.png) top left no-repeat;
+}
