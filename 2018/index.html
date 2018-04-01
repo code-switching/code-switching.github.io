@@ -152,10 +152,9 @@
 
                         <div class="alert alert-dismissible alert-info">
                             <h5 class="bold">IMPORTANT</h5>
-                            We will be sending directly the <span class="bold">ENG-SPA</span> data to the
-                            registered participants because some of the development tweets are not available
-                            to fetch anymore. If you have registered to the shared task already but haven't
-                            received the data, please don't hesitate to send us an email.
+                            <a class="bold">Participants</a>: please use the datasets that have been sent directly to you. This will
+                            ensure that all the participants have the same datasets. Note that some tweets may have been
+                            deleted at this point, which would lead to an incomplete dataset if you use the packages below.
                         </div>
 
                         <p>
@@ -169,16 +168,16 @@
                         <p>For <span class="text-primary bold">English-Spanish</span> data (guidelines <a class="bold" href="files/spa-eng/README.html">here</a>):</p>
                         <ul>
 
-                            <li>Training data (7,400 tweets): <a class="bold" href="files/spa-eng/train_offset.tsv">train_offset.tsv</a></li>
+                            <li>Training set (50,757 tweets): <a class="bold" href="files/spa-eng/train_offset.tsv">train_offset.tsv</a></li>
                             <li>Development set (832 tweets): <a class="bold" href="files/spa-eng/dev_offset.tsv">dev_offset.tsv</a></li>
-                            <li>Test set: the test set has been sent to the registered participants.</li>
+                            <li>Testing set: the test set has been sent to the registered participants.</li>
                         </ul>
 
                         <p>For <span class="text-primary bold">Modern Standard Arabic-Egyptian</span> data (guidelines <a class="bold" href="files/msa-egy/GuidelinesArabicNE.pdf">here</a>):</p>
                         <ul>
-                            <li>Training data (10,102 tweets): <a class="bold" href="files/msa-egy/Train-MSA-EGY-2018.tsv">Train-MSA-EGY-2018.tsv</a></li>
+                            <li>Training set (10,102 tweets): <a class="bold" href="files/msa-egy/Train-MSA-EGY-2018.tsv">Train-MSA-EGY-2018.tsv</a></li>
                             <li>Development set (1,122 tweets): <a class="bold" href="files/msa-egy/Dev-MSA-EGY-2018.tsv">Dev-MSA-EGY-2018.tsv</a></li>
-                            <li>Test set: the test set has been sent to the registered participants.</li>
+                            <li>Testing set: the test set has been sent to the registered participants.</li>
                         </ul>
                         <br>
                         <h4 class="text-primary new">Task Details</h4>
@@ -187,27 +186,24 @@
                             submissions on both pairs, participants can choose from one or both languages.
                         </p>
                         <p>
-                            We have opened the competitions in <span class="bold">CodaLab</span> already. For the English-Spanish shared task, follow
-                            <a class="bold" href="https://competitions.codalab.org/competitions/18725?secret_key=3296722d-24ab-4ecd-81b9-b3b740aecdb1">this link</a>.
-                            For the Modern Standard Arabic-Egyptian competition, follow
-                            <a class="bold" href="https://competitions.codalab.org/competitions/18724?secret_key=46242d61-75bf-4068-b369-b67219a63c98">this one</a>.
-                            Instructions are provided on each competition.
+                            We have opened the competitions in <span class="bold">CodaLab</span> already. Please follow the links below
+                            and <span class="bold">request access</span> to the competitions. More instructions for the competitions are
+                            provided in the links:
                         </p>
+                        <ul>
+                            <li><a class="bold" target="_blank" href="https://competitions.codalab.org/competitions/18725?secret_key=3296722d-24ab-4ecd-81b9-b3b740aecdb1">CodaLab ENG-SPA competition</a></li>
+                            <li><a class="bold" target="_blank" href="https://competitions.codalab.org/competitions/18725?secret_key=3296722d-24ab-4ecd-81b9-b3b740aecdb1">CodaLab MSA-EGY competition</a></li>
+                        </ul>
+                        <p>We also provide the baseline scores on each competition. Here's the description:
+                            <a class="bold" target="_blank" href="files/baseline.html">NER baseline</a>.</p>
+
                         <p>
                             <span class="bold">NOTE:</span> Participants can use any resources (e.g., pre-trained word embeddings,
                             gazetteers, etc.) that they consider appropriate for the task. In terms of the competition, there is no
                             difference between <span class="bold">with</span> or <span class="bold">without</span> resources. However,
                             we highly encourage participants to keep track of the perfomance when adding resources to include such insights
-                            in the paper.
+                            in their papers.
                         </p>
-                        <!--<p>-->
-                            <!--Additionally, we require the following aspects:-->
-                        <!--</p>-->
-                        <!--<ul>-->
-                            <!--<li><span class="bold">Always</span> report results with models trained <span class="bold">exclusively</span> on the language resources we provide.</li>-->
-                            <!--<li>You can use external resources to improve your system, but <span class="bold">the scores have to be reported separately</span>.</li>-->
-                            <!--<li>External resources, if any, have to be described and referenced properly.</li>-->
-                        <!--</ul>-->
 
                         <br>
                         <h4 class="text-primary">Evaluation</h4>
