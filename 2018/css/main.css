@@ -195,3 +195,10 @@ img{
     padding-left: 48px;
     background: url(new.png) top left no-repeat;
 }
+
+
+.leaderboard{
+    vertical-align: top;
+    width: 45% !important;
+    display: inline-block;
+}
