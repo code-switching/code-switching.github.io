@@ -1,5 +1,5 @@
 ---
-layout: default2
+layout: /_layouts/default2
 title: Workshop Information
 InvitedSpeakers:
   - name: Alan W. Black

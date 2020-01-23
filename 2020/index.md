@@ -1,5 +1,5 @@
 ---
-layout: default2
+layout: /_layouts/default2
 title: Home
 ---
 What is Code Switching?
