@@ -17,3 +17,8 @@ dates:
     date: April 5th, 2020
 Links: https://lrec2020.lrec-conf.org/en/
 Venue: Le Palais du Pharo
+PastWorkShops:
+  - name: 2018
+    link: https://code-switching.github.io/2018
+  - name: 2020
+    link: https://code-switching.github.io/2020
