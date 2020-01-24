@@ -1,0 +1,35 @@
+<hr />
+<h1 id="ner-baseline">NER Baseline</h1>
+<hr />
+
+<p>The baseline system for the CALCS NER shared 
+task uses a recurrent neural network as follows:</p>
+
+<h3 id="preprocessing">Preprocessing</h3>
+
+<ol>
+  <li>Replace all URLs with the token &lt;URL&gt;</li>
+  <li>Replace all the usernames with the token &lt;USR&gt;</li>
+</ol>
+
+<h3 id="model-architecture">Model architecture</h3>
+
+<ol>
+  <li>Randomly initialized embedding vectors of 200 dimensions.</li>
+  <li>Forward LSTM wrapped with dropout technique (200 hidden units).</li>
+  <li>Backward LSTM wrapped with dropout technique (200 hidden units).</li>
+  <li>Concatenation of both LSTM directions.</li>
+  <li>Softmax layer to output the label probabilities.</li>
+  <li>Adam optimizer.</li>
+</ol>
+
+<h3 id="settings-and-experiments">Settings and Experiments</h3>
+
+<ol>
+  <li>Learning rate: 0.01</li>
+  <li>Learning rate decay: <code class="highlighter-rouge">2^0.5</code> (<code class="highlighter-rouge">lr /= 1 + epoch * lrdecay</code>)</li>
+  <li>Epochs: 5</li>
+  <li>Batch size: 64</li>
+  <li>Dropout probability: 0.5</li>
+</ol>
+

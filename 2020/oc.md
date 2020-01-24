@@ -7,7 +7,7 @@ title: Organizing Committee
 
 ## Thamar Solorio
 
-![Thamar Solorio](/images/sol.png)
+![Thamar Solorio](/2020/images/sol.png)
 - Associate Professor
 - Department of Computer Science
 - University of Houston
@@ -18,7 +18,7 @@ title: Organizing Committee
 
 ## Monojit Choudhury
 
-![Monojit Choudhury Picture](/images/monochoud.png)
+![Monojit Choudhury Picture](/2020/images/monochoud.png)
 - Principal Researcher
 - Microsoft Research Lab India
 - [monojitc@microsoft.com](mailto:monojitc@microsoft.com  "Email")
@@ -27,7 +27,7 @@ title: Organizing Committee
 
 ## Kalika Bali
 
-![Kalika Bali Picture](/images/kalb.png)
+![Kalika Bali Picture](/2020/images/kalb.png)
 - Principal Researcher
 - Microsoft Research Lab India
 - [kalikab@microsoft.com](mailto:kalikab@microsoft.com  "Email")
@@ -36,7 +36,7 @@ title: Organizing Committee
 
 ## Sunayana Sitaram
 
-![Sunayana Sitaram Picture](/images/SunSit.png)
+![Sunayana Sitaram Picture](/2020/images/SunSit.png)
 - Senior Researcher
 - Microsoft Research Lab India
 - [sunayana.sitaram@microsoft.com](mailto:sunayana.sitaram@microsoft.com "Email")
@@ -46,7 +46,7 @@ title: Organizing Committee
 
 ## Amitava Das
 
-![Amitava Das Picture](/images/ad.png)
+![Amitava Das Picture](/2020/images/ad.png)
 - Lead Scientist
 - Wipro AI Lab India
 - [amitava.das2@wipro.com](mailto:amitava.das2@wipro.com "Email")
@@ -56,7 +56,7 @@ title: Organizing Committee
 
 ## Mona Diab
 
-![Mona Diab Picture](/images/md.png)
+![Mona Diab Picture](/2020/images/md.png)
 - Principal Scientist
 - Amazon AWS AI
 - Professor of Computer Science, GWU, USA

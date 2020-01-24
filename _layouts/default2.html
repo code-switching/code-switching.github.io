@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+
+        <link rel=stylesheet type=text/css href="https://bootswatch.com/4/simplex/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script src="https://bootswatch.com/_vendor/popper.js/dist/umd/popper.min.js"></script>
+        <script src="https://bootswatch.com/_vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	</head>
+	<body>
+        <div class="global-wrapper">
+            <div class="nav-wrapper">
+                <nav>
+                    <ul>
+                        <li><a href="{{ '/' | absolute_url }}">Home</a></li>
+                        <li><a href="{{ site.github.wi_url | relative_url}}">Paper Submissions/Workshop Information</a></li>
+                        <li><a href="{{ site.github.pc_url | relative_url}}">Committee</a></li>
+                        <li><a href="{{ site.github.oc_url | relative_url}}">Organizers</a></li>
+                        <li class="twitter"><a href="https://twitter.com/WCALCS" class="fa fa-twitter"></a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <div class="image-container">
+                <img src="https://img.theculturetrip.com/1440x960/smart/wp-content/uploads/2017/06/shutterstock_335191475_-s-f.jpg" alt="Marseille, France" width=800 height=400>
+                <div class="page-title bottom-right">
+                    <h6><strong>{{ site.details }}</strong></h6>
+                </div>
+            </div>
+            <div class="image-caption">
+                <i>The 4th Workshop will be {{ site.details }} on <strong class="bold">{{ site.dates[0].date }}</strong>. Marseille, France</i>
+            </div>
+            <div class="container">
+
+                <div class="page-content">
+
+                    <div class="jumbotron">
+                        <h4>Workshop Dates and Locations</h4>
+                        <hr class="custom-line">
+                        <ul>
+                            {%for date in site.dates %}
+                            <li>{{ date.name }}: {{ date.date }}</li>
+                            {% endfor %}
+                            <li>Main Event: <a href="{{ site.Links }}"><strong>{{ site.Links }}</strong></a></li>
+                            <li>Venue: {{ site.Venue }}</li>
+                        </ul>
+                        <i class="bold" style="text-align: right !important;">*All deadlines are at 23:59 GMT -08:00</i>
+                    </div>
+                    {{ content }}
+
+                        <p>
+                            Updates will be given through the workshop <strong class="bold">Google group:</strong>
+                            <a href="https://groups.google.com/forum/?hl=en#!forum/codeswitching_workshop">codeswitching_workshop@googlegroups.com</a>,
+                            and the <strong class="bold">Twitter account</strong>: <a href="https://twitter.com/WCALCS">@WCALCS</a>. Direct updates
+                            will be sent by email to the participants based on the information provided in the registration form.
+                        </p>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+
+            <footer>
+                <ul>
+                    <li>Google Group: <a href="https://groups.google.com/forum/?hl=en#!forum/codeswitching_workshop">codeswitching_workshop@googlegroups.com</a></li>
+                </ul>
+            </footer>
+        </div>
+	</body>
+</html>

@@ -1,0 +1,106 @@
+<hr />
+<h1 id="eng-spa-guideline---ner-shared-task">ENG-SPA Guideline - NER Shared Task</h1>
+<hr />
+
+<p>Our Named Entities have been annotated using the IOB scheme. The data files contain one token
+per line, and multiple lines that belong to the same sequence of tokens are identified by the 
+same tweet id. There are no empty lines to separate sentences.</p>
+
+<p>We have defined the following 9 entity types:</p>
+
+<ol>
+  <li><strong>PERSON:</strong>  proper names or even nicknames that can identify a person uniquely.
+    <ul>
+      <li>Ignore cases where a person is referred by adjectives (not necessarily a nickname)</li>
+      <li>Single artists or famous people are treated as PERSON</li>
+      <li>Note that <strong>Ima</strong> is not a person, it’s an SM abbreviation for <strong>I’m going to</strong></li>
+      <li>E.g., John Mayer, Shakira, Ibrahimovic, etc</li>
+    </ul>
+  </li>
+  <li><strong>LOCATION:</strong> cities, countries, addresses, facilities, etc.
+    <ul>
+      <li>Everything that you understand people are referring to a physical location</li>
+      <li>Note that if a restaurant name is used as a place to go, that’s a location, not an organization</li>
+      <li>E.g., Houston, Mexico, Puerto Vallarta, Chipotle, etc.</li>
+    </ul>
+  </li>
+  <li><strong>ORGANIZATION:</strong> companies, institutions, etc.
+    <ul>
+      <li>Every entity that has employees</li>
+      <li>If the entity name can be any other category, you have to rely on the context to support 
+ that the NE is an organization (e.g., Facebook as organization vs Facebook as the website product)</li>
+      <li>Do not confuse with <strong>LOCATION</strong> when it’s about going to a restaurant, for example</li>
+      <li>E.g., Apple, Nissan, Facebook, etc.</li>
+    </ul>
+  </li>
+  <li><strong>PRODUCT:</strong> devices, video games, medicines, food produced by a company, any well-defined service, website accounts, etc.
+    <ul>
+      <li>E.g., your Facebook, your Twitter, iPhone, etc.</li>
+    </ul>
+  </li>
+  <li><strong>GROUP:</strong> sports teams, music bands, duets, etc.
+    <ul>
+      <li>Do not confuse sports teams with the team institution because context implies different behaviors (e.g., 
+ <em>“ManU invested on Old Trafford,”</em> here ManU is not the team, but the organization)</li>
+      <li>E.g., Real Madrid, PSG, Iron Maiden, etc.</li>
+    </ul>
+  </li>
+  <li><strong>EVENT:</strong> concerts, award events, competitions, etc.
+    <ul>
+      <li>E.g., The Oscars, Super Bowl, World cup, Premier League, etc.</li>
+    </ul>
+  </li>
+  <li><strong>TIME:</strong> months, days of the week, seasons, etc.
+    <ul>
+      <li>Exclude hours, minutes, etc.</li>
+      <li>Include holidays and things that happen periodically which are not events (e.g., Christmas)</li>
+      <li><em>Yesterday</em> and <em>tomorrow</em> are not TIME, neither <em>week</em> or <em>years</em></li>
+      <li>E.g., Summer, verano, July, Saturday, Enero, Christmas, Saint Valentine, Father’s day, etc.</li>
+    </ul>
+  </li>
+  <li><strong>TITLE:</strong> movies, books, TV shows, songs, etc.
+    <ul>
+      <li>E.g., Frozen, Friends, The Walking Dead, etc.</li>
+    </ul>
+  </li>
+  <li><strong>Other:</strong> any other NE that does not fit in the previous categories.
+    <ul>
+      <li>Use this only if you really need it</li>
+      <li>This class is important because context can imply an NE, and even if it is not in the previous
+ classes, a general approach should be able to capture those NEs with this class.</li>
+    </ul>
+  </li>
+</ol>
+
+<hr />
+<h2 id="rules--tips">Rules &amp; Tips</h2>
+<hr />
+
+<p>Keep in mind the following aspects:</p>
+
+<ol>
+  <li>
+    <p>Named entities can contain one or many words.</p>
+  </li>
+  <li>
+    <p>This is English-Spanish text. Thus, NEs may appear in either English or Spanish words. <strong>DO NOT</strong> discard words just because they are in one or the other language.</p>
+  </li>
+  <li>
+    <p>Technically, Named entities can be almost anything, but this data will most likely show NEs related to sports (players, leagues, teams, etc.), proper names, countries/states/cities (sometimes they will appear abbreviated, e.g. “Nuevo Leon” may be written as “nl”), etc.</p>
+  </li>
+  <li>
+    <p>This is Twitter data, and consequently, some NEs may be misspelled, or not written in a proper manner (not capital letters, missing hyphens, contractions, etc.). <strong>DO NOT</strong> discard possible NEs for those reasons.</p>
+  </li>
+  <li>
+    <p><strong>DO NOT tag hashtags (tokens beginning with #) or tags (tokens beginning with @) as NEs</strong>, they are intentionally ignored in this task. We will address this on future jobs. For instance, #ChicagoDP could have been selected, but it starts with a #, so we MUST skip it.</p>
+  </li>
+  <li>
+    <p><strong>DO NOT choose a category for a word just because the word itself describes such a category</strong>. Instead, read the sentence carefully and think of what is the role of the word(s) in the sentence. For instance, people may say “I like my Samsung,” for which the word Samsung is representing a PRODUCT instead of an ORGANIZATION.</p>
+  </li>
+  <li>
+    <p><strong>DO NOT assume capital letters are always NE or part of an NE</strong>.</p>
+  </li>
+  <li>
+    <p><strong>DO NOT break a single NE into many parts</strong>. Make sure whether the words before and after are part of the same NE.</p>
+  </li>
+</ol>
