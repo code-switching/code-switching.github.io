@@ -12,7 +12,6 @@ div.global-wrapper1{
     padding-right: 10%;
     padding-bottom: 5%;
     background-color: white;
-
 }
 
 .jumbotron {
@@ -56,14 +55,13 @@ nav ul, footer ul {
     padding: inherit;
     margin: 0%;
     font-weight: bold;
+    text-align: center;
 }
-nav ul li, footer ul li, .nav-wrapper1 {
+nav ul li, footer ul li, .nav-wrapper1 a {
     display: inline;
     margin-right: 20px;
-    color: #fff !important;
-
+    color: #ff0000;
 }
-
 .page-title {
     text-align: center;
     margin-bottom: 30px;
@@ -176,9 +174,12 @@ footer {
 .dropbtn 
 {
 /* background-color: #4CAF50; */
-/* color: white; */
 width: min-content;
+
 /* padding: 16px; */
+background-color: #fff;
+color:red; 
+font-weight: bold;
 /* font-size: 16px; */
 border: none;
 }
@@ -213,5 +214,4 @@ display: block;
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
 
-/* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .dropbtn {color: blue;}
