@@ -98,6 +98,8 @@ footer {
     font-size: 19px;
     padding: 6px;
     margin: 0px !important;
+    color: white;
+
 }
 
 
@@ -111,6 +113,8 @@ footer {
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
+  color: white;
+
 }
 
 .fa:hover {
