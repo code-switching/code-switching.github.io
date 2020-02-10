@@ -64,17 +64,7 @@ nav ul li, footer ul li, .nav-wrapper1 {
     color: #fff !important;
 
 }
-ul.nav li a, ul.nav li a:visited {
-    color: #fff !important;
-}
 
-ul.nav li a:hover, ul.nav li a:active {
-    color: #fff !important;
-}
-
-ul.nav li.active a {
-    color: #fff !important;
-}
 .page-title {
     text-align: center;
     margin-bottom: 30px;
