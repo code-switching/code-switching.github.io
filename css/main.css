@@ -12,6 +12,8 @@ div.global-wrapper1{
     padding-right: 10%;
     padding-bottom: 5%;
     background-color: white;
+    color: #fff !important;
+
 }
 
 .jumbotron {
@@ -59,6 +61,8 @@ nav ul, footer ul {
 nav ul li, footer ul li, .nav-wrapper1 {
     display: inline;
     margin-right: 20px;
+    color: #fff !important;
+
 }
 ul.nav li a, ul.nav li a:visited {
     color: #fff !important;
