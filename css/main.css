@@ -60,18 +60,17 @@ nav ul li, footer ul li, .nav-wrapper1 {
     display: inline;
     margin-right: 20px;
 }
-ul li a, ul li a:visited {
-    color: red !important;
+ul.nav li a, ul.nav li a:visited {
+    color: #fff !important;
 }
 
-ul li a:hover, ul li a:active {
-    color: red !important;
+ul.nav li a:hover, ul.nav li a:active {
+    color: #fff !important;
 }
 
-ul li.active a {
-    color: red !important;
+ul.nav li.active a {
+    color: #fff !important;
 }
-
 .page-title {
     text-align: center;
     margin-bottom: 30px;
