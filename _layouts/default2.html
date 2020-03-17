@@ -23,7 +23,7 @@
                         <li><a href="{{ site.github.pc_url | relative_url}}">Committee</a></li>
                         <li><a href="{{ site.github.oc_url | relative_url}}">Organizers</a></li>
                         <li class="twitter"><a href="https://twitter.com/WCALCS" class="fa fa-twitter"></a></li>
-                        <li>                    
+                        <li>
                             <div class="dropdown">
                             <button class="dropbtn">Past Workshops</button>
                             <div class="dropdown-content">
@@ -48,16 +48,18 @@
             <div class="container">
 
                 <div class="page-content">
+									<h1 id="attention">Attention - Regarding COVID-19</h1>
 
+<p>Due to the current situation with COVID 19 LREC and all the associated workshops have been canceled. But we will continue with the review process and we have been told that the proceedings will still be issued. We will be in touch as more information becomes available. In the meantime we expect to send out notifications of the paper submissions as originally planned. We hope everyone stays healthy! Feel free to contact us at codeswitching_workshop@googlegroups.com if you have any questions or concerns.</p>
                     <div class="jumbotron">
-                        <h4>Workshop Dates and Locations</h4>
+                        <h4><strike>Workshop Dates and Locations</strike> - Canceled</h4>
                         <hr class="custom-line">
                         <ul>
                             {%for date in site.dates %}
-                            <li>{{ date.name }}: {{ date.date }}</li>
+                            <li><strike>{{ date.name }}: {{ date.date }} </strike></li>
                             {% endfor %}
-                            <li>Main Event: <a href="{{ site.Links }}"><strong>{{ site.Links }}</strong></a></li>
-                            <li>Venue: {{ site.Venue }}</li>
+                            <li><strike>Main Event: <a href="{{ site.Links }}"><strong>{{ site.Links }}</strong></a></strike></li>
+                            <li><strike>Venue: {{ site.Venue }}</strike></li>
                         </ul>
                         <i class="bold" style="text-align: right !important;">*All deadlines are at 23:59 GMT -08:00</i>
                     </div>
