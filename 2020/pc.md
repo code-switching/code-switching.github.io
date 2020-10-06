@@ -19,3 +19,4 @@ title: Program Committee
 - Yihong Theis, Kansas State University
 - Jacqueline Toribio, University of Texas at Austin
 - Genta Indra Winata, Hong Kong University of Science and Technology
+- Dan Garrett, Google
