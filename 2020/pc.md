@@ -18,5 +18,5 @@ title: Program Committee
 - Adithya Pratapa, Carnegie Mellon University
 - Yihong Theis, Kansas State University
 - Jacqueline Toribio, University of Texas at Austin
-- Gentra Inda Winata, Hong Kong University of Science and Technology
+- Genta Indra Winata, Hong Kong University of Science and Technology
 - Dan Garrett, Google
