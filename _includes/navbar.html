@@ -1,0 +1,24 @@
+<div class="nav-wrapper1">
+    <nav>
+        <ul>
+            {% for nav in page.navbar %}
+                <li><a href="{{ nav.link | relative_url }}">{{ nav.name }}</a></li>
+            {% endfor %}
+
+            <li>
+                <div class="dropdown">
+                    <button class="dropbtn">Workshops</button>
+                    <div class="dropdown-content">
+                        {% for workshop in site.workshops %}
+                            <a href="{{ workshop.year | absolute_url }}">{{workshop.year}}</a>
+                        {% endfor %}
+                    </div>
+                </div>
+            </li>
+
+            <li class="twitter">
+                <a href="{{ site.twitter }}" class="fa fa-twitter"></a>
+            </li>
+        </ul>
+    </nav>
+</div>

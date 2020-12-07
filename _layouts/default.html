@@ -1,66 +1,25 @@
 <!DOCTYPE html>
+
 <html>
     <head>
-        <title></title>
-        <link rel="stylesheet" type="text/css" href="/css/main.css">
-
-        <link rel=stylesheet type=text/css href="https://bootswatch.com/4/simplex/bootstrap.min.css">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-        <script src="https://bootswatch.com/_vendor/popper.js/dist/umd/popper.min.js"></script>
-        <script src="https://bootswatch.com/_vendor/bootstrap/dist/js/bootstrap.min.js"></script>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+        <title>{{ site.title }}</title>
+        
+        {% include head.html %}
     </head>
 
     <body>
         <div class="global-wrapper1">
-            <div class="nav-wrapper1">
-                <nav>
-                    <ul>
-                        <li><a href="{{ '/' | absolute_url }}">Home</a></li>
-                        <li><a href="{{ site.github.wi_url | relative_url}}">Submissions/Info</a></li>
-                        <li><a href="{{ site.github.pc_url | relative_url}}">Committee</a></li>
-                        <li><a href="{{ site.github.oc_url | relative_url}}">Organizers</a></li>
-                        <li class="twitter"><a href="https://twitter.com/WCALCS" class="fa fa-twitter"></a></li>
-                        <li>
-                            <div class="dropdown">
-                                <button class="dropbtn">Past Workshops</button>
-                                <div class="dropdown-content">
-                                    {% for wk in site.PastWorkShops %}
-                                    <a href="{{ wk.link }}">{{wk.name}}</a>
-                                    {% endfor %}
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                </nav>
-            </div>
+            {% include navbar.html %}
+            {% include banner.html %}
 
-
-            <div class="image-container">
-                <img class="img-fluid" src="{{ page.cover_image }}" alt="{{ page.cover_image_caption }}" width=800 height=400>
-                <div class="page-title bottom-right">
-                    <h6><strong>Computational Approaches to Linguistic Code-Switching, CALCS 2021</strong></h6>
-                </div>
-            </div>
-            <div class="image-caption">{{ page.cover_image_caption }}</div>
             <div class="container">
-
                 <div class="page-content">
                     {{ content }}
                 </div>
             </div>
+
         </div>
 
-            <footer>
-                <ul>
-                    <li>Google Group: <a href="https://groups.google.com/forum/?hl=en#!forum/codeswitching_workshop">codeswitching_workshop@googlegroups.com</a></li>
-                </ul>
-            </footer>
-        </div>
+        {% include footer.html %}
     </body>
 </html>

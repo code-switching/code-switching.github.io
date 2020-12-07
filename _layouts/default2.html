@@ -1,34 +1,24 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title></title>
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-
-        <link rel=stylesheet type=text/css href="https://bootswatch.com/4/simplex/bootstrap.min.css">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-        <script src="https://bootswatch.com/_vendor/popper.js/dist/umd/popper.min.js"></script>
-        <script src="https://bootswatch.com/_vendor/bootstrap/dist/js/bootstrap.min.js"></script>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-	</head>
-	<body>
-        <div class="global-wrapper1">
+    <head>
+        <title></title>
+        {% include head.html %}
+    </head>
+    <body>
+         <div class="global-wrapper1">
             <div class="nav-wrapper1">
                 <nav>
                     <ul>
-                        <li><a href="{{ '/' | absolute_url }}">Home</a></li>
-                        <li><a href="{{ site.github.wi_url | relative_url}}">Submissions/Info</a></li>
+                        <li><a href="{{ site.github.wi_url | relative_url}}">Submissions</a></li>
                         <li><a href="{{ site.github.pc_url | relative_url}}">Committee</a></li>
                         <li><a href="{{ site.github.oc_url | relative_url}}">Organizers</a></li>
                         <li class="twitter"><a href="https://twitter.com/WCALCS" class="fa fa-twitter"></a></li>
                         <li>
                             <div class="dropdown">
-                            <button class="dropbtn">Past Workshops</button>
+                            <button class="dropbtn">Workshops</button>
                             <div class="dropdown-content">
-                                {% for wk in site.PastWorkShops %}
-                                <a href="{{ wk.link }}">{{wk.name}}</a>
+                                {% for workshop in site.workshops %}
+                                <a href="{{ workshop.year | absolute_url }}">{{workshop.year}}</a>
                                 {% endfor %}
                             </div>
                           </div></li>
@@ -51,7 +41,7 @@
                     <h3>
                         We have centralized many code-switching datasets, including the data from the CALCS series, into a single code-switching benchmark. Please consider using the improved version of the data and the public leaderboards available here: <a href="https://ritual.uh.edu/lince">ritual.uh.edu/lince</a>
                     </h3>
-									<h1 id="attention" style="color:red; ">Attention - Regarding COVID-19</h1>
+                                    <h1 id="attention" style="color:red; ">Attention - Regarding COVID-19</h1>
 
 <p >Due to the current situation with COVID 19 LREC and all the associated workshops have been canceled. But we will continue with the review process and we have been told that the proceedings will still be issued. We will be in touch as more information becomes available. In the meantime we expect to send out notifications of the paper submissions as originally planned. We hope everyone stays healthy! Feel free to contact us at codeswitching_workshop@googlegroups.com if you have any questions or concerns.</p>
                     <div class="jumbotron">
@@ -84,5 +74,5 @@
                 </ul>
             </footer>
         </div>
-	</body>
+    </body>
 </html>

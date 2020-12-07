@@ -1,4 +1,4 @@
-title: CS Workshop - 2020
+title: CS Workshop
 description: Code Switching Workshop
 details: Collocated with LREC 2020
 github:
@@ -17,8 +17,17 @@ dates:
     date: April 5th, 2020
 Links: https://lrec2020.lrec-conf.org/en/
 Venue: Le Palais du Pharo
-PastWorkShops:
-  - name: 2018/
-    link: https://code-switching.github.io/2018
-  - name: 2020/
-    link: https://code-switching.github.io/2020
+
+
+
+twitter: https://twitter.com/WCALCS
+workshops:
+  - year: 2018
+    name: CALCS 2018
+    venue: ACL (Melbourne, Autralia)
+  - year: 2020
+    name: CALCS 2020
+    venue: COLING (Spain)
+  - year: 2021
+    name: CALCS 2021
+    venue: TBD
