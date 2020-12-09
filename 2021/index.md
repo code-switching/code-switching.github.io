@@ -12,46 +12,21 @@ navbar:
     - name: Organizers
       link: /2021/#organizers
 program_committee:
-    - name: Steven Abney
-      affiliation: University of Michigan
     - name: Gustavo Aguilar
       affiliation: University of Houston
-    - name: Segun Taofeek Aroyehun
-      affiliation: Instituo Politécnico Nacional
-    - name: Astik Biswas
-      affiliation: Oracle
-    - name: Barbara Bullock
-      affiliation: University of Texas at Austin
-    - name: Costin-Gabriel Chiru
-      affiliation: Politehnica University from Bucharest
-    - name: Monojit Choudhury
-      affiliation: Microsoft India
-    - name: Helena Gómez Adorno
-      affiliation: Universidad Autónoma de Mexico
+    - name: Kalika Bali
+      affiliation: Microsoft Research India
     - name: Alexander Gelbukh
       affiliation: Insituto Poliécnico Nacional
-    - name: Julia Hirschberg
-      affiliation: Columbia University
     - name: Genta Indra Winata
       affiliation: Hong Kong University of Science and Technology
-    - name: Yerbolat Kassanov
-      affiliation: Nazarbayev University
+    - name: Sudipta Kar
+      affiliation: Amazon
     - name: Constantine Lignos
       affiliation: University of Pennsylvania
-    - name: Yang Liu
-      affiliation: Amazon
     - name: Els Lefever
-      affiliation: Ghent University 
-    - name: Pastor López Monroy
-      affiliation: Centro de Investigaciones Matemáticas Avanzadas
-    - name: Manuel Mager
-      affiliation: University of Stuttgart
-    - name: Parth Patwa
-      affiliation: Indian Isntitute of Information Technology
-    - name: Jacqueline Toribio
-      affiliation: University of Texas at Austin
-    - name: Ana Valeria González
-      affiliation: University of Copenghagen
+      affiliation: Ghent University
+    
 organizers:
     - name: Thamar Solorio (contact person)
       email: solorio@cs.uh.edu
