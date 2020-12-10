@@ -32,7 +32,7 @@ program_committee:
       affiliation: Indian Institute of Technology
     - name: Sai Krishna	Rallabandi
       affiliation: Carnegie Mellon University
-    - name: Yihong	Theis
+    - name: Yihong Theis
       affilitation: Kansas State University
     
 organizers:
