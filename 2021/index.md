@@ -16,6 +16,8 @@ program_committee:
       affiliation: University of Houston
     - name: Kalika Bali
       affiliation: Microsoft Research India
+    - name: Indranil Dutta
+      affiliation: Jadavpur University
     - name: Alexander Gelbukh
       affiliation: Insituto Poliécnico Nacional
     - name: Genta Indra Winata
@@ -26,6 +28,12 @@ program_committee:
       affiliation: University of Pennsylvania
     - name: Els Lefever
       affiliation: Ghent University
+    - name: Parth Patwa
+      affiliation: Indian Institute of Technology
+    - name: Sai Krishna	Rallabandi
+      affiliation: Carnegie Mellon University
+    - name: Yihong	Theis
+      affilitation: Kansas State University
     
 organizers:
     - name: Thamar Solorio (contact person)
