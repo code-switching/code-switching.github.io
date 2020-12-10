@@ -35,6 +35,7 @@ program_committee:
     - name: Yihong Theis
       affilitation: Kansas State University
     
+    
 organizers:
     - name: Thamar Solorio (contact person)
       email: solorio@cs.uh.edu
