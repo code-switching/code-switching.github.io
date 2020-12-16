@@ -14,12 +14,20 @@ navbar:
 program_committee:
     - name: Gustavo Aguilar
       affiliation: University of Houston
+    - name: Elena Álvarez Mellado
+      affiliation: University of Southern California
+    - name: Segun Aroyehun
+      affiliation: Insituto Politécnico Nacional
     - name: Kalika Bali
       affiliation: Microsoft Research India
+    - name: Monojit	Choudhury
+      affiliation: Microsoft Research India
+    - name: Amitava Das
+      affiliation: Wipro AI Lab
     - name: Indranil Dutta
       affiliation: Jadavpur University
     - name: Alexander Gelbukh
-      affiliation: Insituto Poliécnico Nacional
+      affiliation: Insituto Politécnico Nacional
     - name: Genta Indra Winata
       affiliation: Hong Kong University of Science and Technology
     - name: Sudipta Kar
@@ -28,12 +36,15 @@ program_committee:
       affiliation: University of Pennsylvania
     - name: Els Lefever
       affiliation: Ghent University
+    - name: Manuel Mager
+      affiliation: Universität Stuttgart
     - name: Parth Patwa
       affiliation: Indian Institute of Technology
     - name: Sai Krishna	Rallabandi
       affiliation: Carnegie Mellon University
     - name: Yihong Theis
-      affilitation: Kansas State University
+      affiliation: Kansas State University
+      
     
     
 organizers:
