@@ -20,6 +20,8 @@ program_committee:
       affiliation: Insituto Politécnico Nacional
     - name: Kalika Bali
       affiliation: Microsoft Research India
+    - name: Astik Biswas
+      affiliation: Oracle
     - name: Monojit	Choudhury
       affiliation: Microsoft Research India
     - name: Amitava Das
@@ -32,10 +34,14 @@ program_committee:
       affiliation: Hong Kong University of Science and Technology
     - name: Sudipta Kar
       affiliation: Amazon
-    - name: Constantine Lignos
-      affiliation: University of Pennsylvania
+    - name: Grande Lee
+      affiliation: National University of Singapore 
     - name: Els Lefever
       affiliation: Ghent University
+    - name: Constantine Lignos
+      affiliation: University of Pennsylvania
+    - name: Yang Liu
+      affiliation: Amazon
     - name: Manuel Mager
       affiliation: Universität Stuttgart
     - name: Parth Patwa
@@ -44,6 +50,8 @@ program_committee:
       affiliation: Carnegie Mellon University
     - name: Yihong Theis
       affiliation: Kansas State University
+    - name: Van Tung Pham
+      affiliation: Nanyang Technological University
       
     
     
