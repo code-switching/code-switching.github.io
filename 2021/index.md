@@ -45,7 +45,7 @@ program_committee:
     - name: Manuel Mager
       affiliation: Universität Stuttgart
     - name: Parth Patwa
-      affiliation: Indian Institute of Technology
+      affiliation: Indian Institute of Information Technology Sri City
     - name: Sai Krishna	Rallabandi
       affiliation: Carnegie Mellon University
     - name: Yihong Theis
