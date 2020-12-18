@@ -8,9 +8,9 @@ navbar:
     - name: Shared Task
       link: /2021/#shared-task
     - name: Committee
-      link: /2021/#committee
+      link: /2021/#program-committee-id
     - name: Organizers
-      link: /2021/#organizers
+      link: /2021/#organizers-id
 program_committee:
     - name: Gustavo Aguilar
       affiliation: University of Houston
@@ -91,7 +91,7 @@ organizers:
         - SRI International
 ---
 
-<h2 class="subtitle" id="shared-task" class="text-primary-red">CALCS Workshop 2021</h2>
+<h2 class="subtitle" class="text-primary-red">CALCS Workshop 2021</h2>
 <hr class="custom-line">
 
 The workshop will invite contributions from researchers working in NLP and speech approaches for the analysis and processing of mixed-language data. Topics of relevance to the workshop will include the following: 
@@ -107,7 +107,7 @@ The workshop will invite contributions from researchers working in NLP and speec
 10. Sociolinguistic and/or sociopragmatic aspects of code-switching.
 
 
-<h2 class="subtitle" id="shared-task"><a href="#program-committee-id" class="text-primary-red">Shared Task</a></h2>
+<h2 class="subtitle" id="shared-task"><a href="#shared-task" class="text-primary-red">Shared Task</a></h2>
 <hr class="custom-line">
 
 <p>
