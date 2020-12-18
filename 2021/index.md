@@ -6,11 +6,11 @@ cover_image_caption: Venue to be defined
 cover_banner: Computational Approaches to Linguistic Code-Switching, CALCS 2021
 navbar:
     - name: Shared Task
-      link: /2021/#shared-task
+      link: /2021#shared-task
     - name: Committee
-      link: /2021/#program-committee-id
+      link: /2021#program-committee-id
     - name: Organizers
-      link: /2021/#organizers-id
+      link: /2021#organizers-id
 program_committee:
     - name: Gustavo Aguilar
       affiliation: University of Houston
