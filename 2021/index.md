@@ -5,12 +5,29 @@ cover_image: https://www.theinclusionsolution.me/wp-content/uploads/2018/08/code
 cover_image_caption: Venue to be defined
 cover_banner: Computational Approaches to Linguistic Code-Switching, CALCS 2021
 navbar:
+    - name: Calls
+      link: /2021#call-for-papers
+    - name: Important Dates
+      link: /2021#important-dates
     - name: Shared Task
       link: /2021#shared-task
+    - name: Invited Speakers
+      link: /2021#invited-speakers-id
     - name: Committee
       link: /2021#program-committee-id
     - name: Organizers
       link: /2021#organizers-id
+invited_speakers:
+    - name: Ozlem Cetinoglu
+      affiliation: University of Stuttgart
+    # - name: Thomas Niesler (TBD)
+    #   affiliation: University of Stellenbosch
+    # - name: Febe de Wet (TBD)
+    #   affiliation: University of Stellenbosch
+    # - name: Ngoc Thang Vu (TBD)
+    #   affiliation: University of Stuttgart
+    # - name: Manish Shrivastava (TBD)
+    #   affiliation: International Institute of Information Technology Hyderabad
 program_committee:
     - name: Gustavo Aguilar
       affiliation: University of Houston
@@ -62,6 +79,12 @@ organizers:
         - Professor
         - Department of Computer Science
         - University of Houston
+    - name: Shuguang Chen (webmaster)
+      email: schen52@uh.edu
+      fields:
+        - Ph.D. Student
+        - Department of Computer Science
+        - University of Houston
     - name: Alan W. Black
       email: awb@cmu.edu
       fields:
@@ -91,7 +114,22 @@ organizers:
         - SRI International
 ---
 
-<h2 class="subtitle" class="text-primary-red">CALCS Workshop 2021</h2>
+<h2 class="subtitle" id="call-for-papers"><a href="#call-for-papers" class="text-primary-red">First Call for Papers</a></h2>
+<hr class="custom-line">
+
+<p>
+Multilingual speakers will often mix languages when they communicate with other multilingual speakers in what is usually known as code-switching (CSW). 
+CSW is typically present on the intersentential, intrasentential and even morphological levels. 
+CSW presents serious challenges for language technologies such as Machine Translation (MT), Automatic Speech Recognition (ASR), language generation (LG), information retrieval (IR) and extraction (IE), and semantic processing. Traditional techniques trained for one language quickly break down when there is input mixed in from another. 
+Recent work has shown that even powerful multilingual models, such as multilingual BERT, yield subpar performance on CSW data (cf. Aguilar and Solorio, 2020).
+</p>
+
+<p>
+Considering the ubiquitous nature of CSW in informal text communication such as newsgroups, tweets, blogs, and other social media, and the number of multilingual speakers worldwide that use these platforms, addressing the challenge of processing CSW data continues to be of great practical value. 
+This workshop aims to bring together researchers interested in technology for mixed language data, in either spoken or written form, and increase community awareness of the different efforts developed to date in this space.
+</p>
+
+<h2 class="subtitle" class="text-primary-red">Topics of Interest</h2>
 <hr class="custom-line">
 
 The workshop will invite contributions from researchers working in NLP and speech approaches for the analysis and processing of mixed-language data. Topics of relevance to the workshop will include the following: 
@@ -106,23 +144,36 @@ The workshop will invite contributions from researchers working in NLP and speec
 9. Survey papers of NLP research for code-switched data; 
 10. Sociolinguistic and/or sociopragmatic aspects of code-switching.
 
+<h2 class="subtitle" id="important-dates"><a href="#important-dates" class="text-primary-red">Important Dates</a></h2>
+<hr class="custom-line">
+
+- Workshop submission deadline (long, short and special track): March 15th, 2021
+- Notification of acceptance: April 15th, 2021
+- Workshop date: June 11th, 2021
 
 <h2 class="subtitle" id="shared-task"><a href="#shared-task" class="text-primary-red">Shared Task</a></h2>
 <hr class="custom-line">
 
 <p>
-For 2021 we plan to organize a shared task in CS data with the purpose of providing more resources to the community and new research challenges. 
-The goal is to allow participants to explore the use of transfer learning approaches to address the need to process multiple language combinations. 
+TBD
 </p>
 
-<p>
-Our preliminary discussions lean toward hosting a shared task on Machine Translation Technology for Code-switching data. 
-We will target at least four different language combinations, where the idea is to have at least one language pair that does not include English. 
-At a minimum, language pairs to be included are: Spanish-English, Mandarin-English, as well as one combination that includes Modern Standard Arabic, and one combination with a language from India.
-We are hoping to be able to include a combination with African languages as well. 
-Participants for this shared task will be required to submit output of their systems within a pre-specified time window in order to qualify for evaluation in the shared task.
-They will also be required to submit a paper describing their system. 
-</p>
+<div class="invited-speakers">
+    <h2 class="subtitle" id="invited-speakers-id"><a href="#invited-speakers-id" class="text-primary-red">Invited Speakers</a></h2>
+    <hr class="custom-line">
+    <div>
+        {% for person in page.invited_speakers %}
+        <div class="person-pc">
+            <span class="text-primary-red name">{{person.name}}</span>
+            <span>&nbsp;&nbsp;</span>
+            <span>{{person.affiliation}}</span>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<br>
+Additional invited speakers will be added soon.
 
 <div class="program-committee">
     <h2 class="subtitle" id="program-committee-id"><a href="#program-committee-id" class="text-primary-red">Program Committee</a></h2>
