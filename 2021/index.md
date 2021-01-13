@@ -20,14 +20,8 @@ navbar:
 invited_speakers:
     - name: Ozlem Cetinoglu
       affiliation: University of Stuttgart
-    # - name: Thomas Niesler (TBD)
-    #   affiliation: University of Stellenbosch
-    # - name: Febe de Wet (TBD)
-    #   affiliation: University of Stellenbosch
-    # - name: Ngoc Thang Vu (TBD)
-    #   affiliation: University of Stuttgart
-    # - name: Manish Shrivastava (TBD)
-    #   affiliation: International Institute of Information Technology Hyderabad
+    - name: Ngoc Thang Vu
+      affiliation: University of Stuttgart
 program_committee:
     - name: Gustavo Aguilar
       affiliation: University of Houston
