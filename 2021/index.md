@@ -45,7 +45,7 @@ program_committee:
       affiliation: Hong Kong University of Science and Technology
     - name: Sudipta Kar
       affiliation: Amazon
-    - name: Grande Lee
+    - name: Grandee Lee
       affiliation: National University of Singapore 
     - name: Els Lefever
       affiliation: Ghent University
@@ -63,6 +63,8 @@ program_committee:
       affiliation: Kansas State University
     - name: Van Tung Pham
       affiliation: Nanyang Technological University
+    - name: Khyathi Raghavi Chandu
+      affiliation: Carnegie Mellon University
       
     
     
