@@ -147,12 +147,46 @@ The workshop will invite contributions from researchers working in NLP and speec
 - Notification of acceptance: April 15th, 2021
 - Workshop date: June 11th, 2021
 
-<h2 class="subtitle" id="shared-task"><a href="#shared-task" class="text-primary-red">Shared Task</a></h2>
+<h2 class="subtitle" id="shared-task"><a href="#shared-task" class="text-primary-red">Shared Tasks on Machine Translation in Code-Switching Settings</a></h2>
 <hr class="custom-line">
 
 <p>
-TBD
+In the past few years we have organized a series of shared tasks focusing primarily on enabling technology for code-switching, including language identification, part of speech tagging and named entity recognition. This year we are organizing a series of shared tasks involving machine translation for code-switching settings in multiple language combinations and directions. 
 </p>
+
+#### Task 1. Supervised Setting: MT for English → Hinglish
+<p>
+In this task we provide gold standard data to train and evaluate MT models to take English as input and generate Hinglish data.
+</p> 
+
+#### Task 2. Unsupervised Setting: MT for multiple language combinations
+<p>
+We provide raw data with no gold label translations. Participants are challenged to work on systems that can generate high quality translations in the pairs shown below. More language directions may be added soon:
+</p>
+
+- Spanish-English → English
+- Spanish-English → Spanish
+- English → Spanish-English
+- Spanish → Spanish-English
+- Spanish → English
+- English → Spanish
+- Modern Standard Arabic-Egyptian Arabic → English
+- Modern Standard Arabic-Egyptian Arabic → Spanish
+
+#### Evaluation
+The leaderboard will rank systems based on BLUE scores. We also plan to do a smaller, human evaluation that will be presented at the workshop.
+
+To access the data sets go here: [Linguistic Code-Switching Evaluation Benchmark](https://ritual.uh.edu/lince/datasets)
+
+#### Timeline
+
+- Shared Task training data release: Feb 26th
+- Shared Task test phase: April 1-7th
+- Shared Task System description papers due: April 15th
+- Shared Task reviews back to authors: April 22nd
+- Camera ready papers due: April 29th	
+- Workshop date: June 6th or so
+
 
 <div class="invited-speakers">
     <h2 class="subtitle" id="invited-speakers-id"><a href="#invited-speakers-id" class="text-primary-red">Invited Speakers</a></h2>
