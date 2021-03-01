@@ -198,6 +198,9 @@ To access the data sets go here: [Linguistic Code-Switching Evaluation Benchmark
 - Camera ready papers due: April 29th	
 - Workshop date: June 6th or so
 
+<br>
+Questions about the shared task can be sent to: <calcsworkshops@gmail.com>
+
 
 <h2 class="subtitle" id="submission"><a href="#submission" class="text-primary-red">Submission</a></h2>
 <hr class="custom-line">
@@ -217,6 +220,11 @@ Papers that have been or will be submitted to other meetings or publications are
 
 <h5 class="subtitle" id="electronic-submission"><a href="#electronic-submission" class="text-primary-red">Electronic Submission</a></h5>
 Papers should be submitted electronically at [https://www.softconf.com/naacl2021/calcs2021](https://www.softconf.com/naacl2021/calcs2021)
+
+<h5 class="subtitle" id="rising-stars-track"><a href="#rising-stars-track" class="text-primary-red">*NEW* Rising Stars Track *NEW*</a></h5>
+<p>
+We also invite non-archival one page abstracts of recently published work highlighting the CSW research by young researchers or early career investigators. The goal is to help increase the visibility of PhD students, Postdocs and early career investigators (loosely defined) working in the space of language technology for CSW.
+</p>
 
 <div class="invited-speakers">
     <h2 class="subtitle" id="invited-speakers-id"><a href="#invited-speakers-id" class="text-primary-red">Invited Speakers</a></h2>
