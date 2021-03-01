@@ -196,7 +196,7 @@ To access the data sets go here: [Linguistic Code-Switching Evaluation Benchmark
 - Shared Task System description papers due: April 15th
 - Shared Task reviews back to authors: April 22nd
 - Camera ready papers due: April 29th	
-- Workshop date: June 6th or so
+- Workshop date: June 11th
 
 <br>
 Questions about the shared task can be sent to: <calcsworkshops@gmail.com>
