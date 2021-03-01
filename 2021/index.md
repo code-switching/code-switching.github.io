@@ -205,7 +205,7 @@ Questions about the shared task can be sent to: <calcsworkshops@gmail.com>
 <h2 class="subtitle" id="submission"><a href="#submission" class="text-primary-red">Submission</a></h2>
 <hr class="custom-line">
 
-- Authors are invited to submit papers describing original, unpublished work in the topic areas listed above. Full papers should from four to eight pages with unlimited number of pages for references.
+- Authors are invited to submit papers describing original, unpublished work in the topic areas listed above. Long papers can contain up to eight pages with unlimited number of pages for references, while short papers can include up to four pages of content and unltimited pages for references.
 - All submissions must be in PDF format and must comply with the official NAACL 2021 style guidelines: [https://2021.naacl.org/calls/papers/#submission-types--requirements](https://2021.naacl.org/calls/papers/#submission-types--requirements)
 
 <h5 class="subtitle" id="reiew-process"><a href="#review-process" class="text-primary-red">The Review Process</a></h5>
@@ -241,7 +241,7 @@ We also invite non-archival one page abstracts of recently published work highli
 </div>
 
 <br>
-Additional invited speakers will be added soon.
+
 
 <div class="program-committee">
     <h2 class="subtitle" id="program-committee-id"><a href="#program-committee-id" class="text-primary-red">Program Committee</a></h2>
