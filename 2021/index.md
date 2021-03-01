@@ -11,6 +11,8 @@ navbar:
       link: /2021#important-dates
     - name: Shared Task
       link: /2021#shared-task
+    - name: Submission
+      link: /2021#submission
     - name: Invited Speakers
       link: /2021#invited-speakers-id
     - name: Committee
@@ -22,6 +24,8 @@ invited_speakers:
       affiliation: University of Stuttgart
     - name: Ngoc Thang Vu
       affiliation: University of Stuttgart
+    - name: Manish Shrivastava
+      affiliation: International Institute of Information Technology Hyderabad
 program_committee:
     - name: Gustavo Aguilar
       affiliation: University of Houston
@@ -108,6 +112,11 @@ organizers:
       fields:
         - Advanced Computer Scientist
         - SRI International
+    - name: Anirudh Srinivasan
+      email: t-ansrin@microsoft.com
+      fields:
+        - Research Fellow
+        - Microsoft Research India
 ---
 
 <h2 class="subtitle" id="call-for-papers"><a href="#call-for-papers" class="text-primary-red">First Call for Papers</a></h2>
@@ -177,6 +186,7 @@ We provide raw data with no gold label translations. Participants are challenged
 <h5 class="subtitle" id="evaluation"><a href="#evaluation" class="text-primary-red">Evaluation</a></h5>
 The leaderboard will rank systems based on BLUE scores. We also plan to do a smaller, human evaluation that will be presented at the workshop.
 
+<h5 class="subtitle" id="datasets"><a href="#datasets" class="text-primary-red">Datasets</a></h5>
 To access the data sets go here: [Linguistic Code-Switching Evaluation Benchmark](https://ritual.uh.edu/lince/datasets)
 
 <h5 class="subtitle" id="timeline"><a href="#timeline" class="text-primary-red">Timeline</a></h5>
@@ -188,6 +198,25 @@ To access the data sets go here: [Linguistic Code-Switching Evaluation Benchmark
 - Camera ready papers due: April 29th	
 - Workshop date: June 6th or so
 
+
+<h2 class="subtitle" id="submission"><a href="#submission" class="text-primary-red">Submission</a></h2>
+<hr class="custom-line">
+
+- Authors are invited to submit papers describing original, unpublished work in the topic areas listed above. Full papers should from four to eight pages with unlimited number of pages for references.
+- All submissions must be in PDF format and must comply with the official NAACL 2021 style guidelines: [https://2021.naacl.org/calls/papers/#submission-types--requirements](https://2021.naacl.org/calls/papers/#submission-types--requirements)
+
+<h5 class="subtitle" id="reiew-process"><a href="#review-process" class="text-primary-red">The Review Process</a></h5>
+<p>
+The reviewing process will not be blind and papers can include the authors’ names and affiliations. Each submission will be reviewed by at least three members of the program committee. Accepted papers will be published in the workshop proceedings.
+</p>
+
+<h5 class="subtitle" id="multiple-submission-policy"><a href="#multiple-submission-policy" class="text-primary-red">Multiple Submission Policy</a></h5>
+<p>
+Papers that have been or will be submitted to other meetings or publications are acceptable, but authors must indicate this information at submission time. If accepted, authors must notify the organizers before the camera-ready deadline as to whether the paper will be presented at the workshop or elsewhere.
+</p>
+
+<h5 class="subtitle" id="electronic-submission"><a href="#electronic-submission" class="text-primary-red">Electronic Submission</a></h5>
+Papers should be submitted electronically at [https://www.softconf.com/naacl2021/calcs2021](https://www.softconf.com/naacl2021/calcs2021)
 
 <div class="invited-speakers">
     <h2 class="subtitle" id="invited-speakers-id"><a href="#invited-speakers-id" class="text-primary-red">Invited Speakers</a></h2>
