@@ -154,12 +154,13 @@ The workshop will invite contributions from researchers working in NLP and speec
 In the past few years we have organized a series of shared tasks focusing primarily on enabling technology for code-switching, including language identification, part of speech tagging and named entity recognition. This year we are organizing a series of shared tasks involving machine translation for code-switching settings in multiple language combinations and directions. 
 </p>
 
-#### Task 1. Supervised Setting: MT for English → Hinglish
+
+<h5 class="subtitle" id="shared-task-1"><a href="#shared-task-1" class="text-primary-red">Task 1. Supervised Setting: MT for English → Hinglish</a></h5>
 <p>
 In this task we provide gold standard data to train and evaluate MT models to take English as input and generate Hinglish data.
 </p> 
 
-#### Task 2. Unsupervised Setting: MT for multiple language combinations
+<h5 class="subtitle" id="shared-task-2"><a href="#shared-task-2" class="text-primary-red">Task 2. Unsupervised Setting: MT for multiple language combinations</a></h5>
 <p>
 We provide raw data with no gold label translations. Participants are challenged to work on systems that can generate high quality translations in the pairs shown below. More language directions may be added soon:
 </p>
@@ -173,12 +174,12 @@ We provide raw data with no gold label translations. Participants are challenged
 - Modern Standard Arabic-Egyptian Arabic → English
 - Modern Standard Arabic-Egyptian Arabic → Spanish
 
-#### Evaluation
+<h5 class="subtitle" id="evaluation"><a href="#evaluation" class="text-primary-red">Evaluation</a></h5>
 The leaderboard will rank systems based on BLUE scores. We also plan to do a smaller, human evaluation that will be presented at the workshop.
 
 To access the data sets go here: [Linguistic Code-Switching Evaluation Benchmark](https://ritual.uh.edu/lince/datasets)
 
-#### Timeline
+<h5 class="subtitle" id="timeline"><a href="#timeline" class="text-primary-red">Timeline</a></h5>
 
 - Shared Task training data release: Feb 26th
 - Shared Task test phase: April 1-7th
