@@ -69,6 +69,8 @@ program_committee:
       affiliation: Nanyang Technological University
     - name: Khyathi Raghavi Chandu
       affiliation: Carnegie Mellon University
+    - name: Seza Doğruöz
+      affiliation: Ghent University
       
     
     
