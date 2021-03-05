@@ -76,45 +76,53 @@ program_committee:
     
 organizers:
     - name: Thamar Solorio (contact person)
-      email: solorio@cs.uh.edu
+      link: http://solorio.uh.edu
+      email: tsolorio@uh.edu
       fields:
         - Professor
         - Department of Computer Science
         - University of Houston
     - name: Shuguang Chen (webmaster)
+      link: https://sgchen.info
       email: schen52@uh.edu
       fields:
         - Ph.D. Student
         - Department of Computer Science
         - University of Houston
     - name: Alan W. Black
+      link: http://www.cs.cmu.edu/~awb/
       email: awb@cmu.edu
       fields:
         - Professor
         - Department of Computer Science
         - Carnegie Mellon University
     - name: Mona Diab
+      link: https://web.seas.gwu.edu/mtdiab/
       email: mtdiab@gwu.edu
       fields:
         - Research Scientist, Facebook AI
         - Professor, Department of Computer Science
         - George Washington University
     - name: Sunayana Sitaram
+      link: https://www.cs.cmu.edu/~ssitaram/
       email: sunayana.sitaram@microsoft.com
       fields:
         - Senior Researcher
         - MSR India
     - name: Victor Soto
+      link: https://scholar.google.com/citations?user=_5-V4rIAAAAJ&hl=en
       email: nvmartin@amazon.com
       fields:
         - Applied Scientist
         - Amazon Alexa AI
     - name: Emre Yilmaz
+      link: https://sites.google.com/site/schemreier/
       email: emre.yilmaz@sri.com
       fields:
         - Advanced Computer Scientist
         - SRI International
     - name: Anirudh Srinivasan
+      link: https://genius1237.github.io/about/
       email: t-ansrin@microsoft.com
       fields:
         - Research Fellow
@@ -265,7 +273,7 @@ We also invite non-archival one page abstracts of recently published work highli
     <div>
         {% for person in page.organizers %}
         <div class="person">
-            <div class="text-primary-red name">{{ person.name }}</div>
+            <div><a href="{{person.link}}" class="text-primary-red name">{{person.name}}</a></div>
             {% for field in person.fields %}
                 <div>{{ field }}</div>
             {% endfor %}
