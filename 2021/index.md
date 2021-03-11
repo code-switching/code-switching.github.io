@@ -193,6 +193,12 @@ We provide raw data with no gold label translations. Participants are challenged
 - Modern Standard Arabic-Egyptian Arabic → English
 - Modern Standard Arabic-Egyptian Arabic → Spanish
 
+For examples:
+- \[**Spanish-English → English**\]: I’m expecting dos camonietas llenas de rosas This weekend. → I’m expecting two trucks full of roses This weekend.
+- \[**Spanish-English → Spanish**\]: Es viernes y el outfit lo sabe → Es viernes y el atuendo lo sabe
+- \[**English → Spanish**\]: My goal is to move to my own apartment next year → Mi objetivo es mudarme a mi propio apartamento el próximo año
+- \[**Spanish → English**\]: A mi manera o pa la calle!! → My way or the highway!!
+
 <h5 class="subtitle" id="evaluation"><a href="#evaluation" class="text-primary-red">Evaluation</a></h5>
 The leaderboard will rank systems based on BLUE scores. We also plan to do a smaller, human evaluation that will be presented at the workshop.
 
@@ -205,7 +211,9 @@ To access the data sets go here: [Linguistic Code-Switching Evaluation Benchmark
 - Shared Task test phase: April 1-7th
 - Shared Task System description papers due: April 15th
 - Shared Task reviews back to authors: April 22nd
-- Camera ready papers due: April 29th	
+- Notifications for regular workshop papers: April 15th
+- Workshop papers due: March 29th
+- Camera ready papers due: April 26th
 - Workshop date: June 11th
 
 <br>
