@@ -22,10 +22,13 @@ navbar:
 invited_speakers:
     - name: Ozlem Cetinoglu
       affiliation: University of Stuttgart
+      link: https://www.ims.uni-stuttgart.de/en/institute/team/Cetinoglu-00004/
     - name: Ngoc Thang Vu
       affiliation: University of Stuttgart
+      link: https://www.ims.uni-stuttgart.de/en/institute/team/Vu-00002/
     - name: Manish Shrivastava
       affiliation: International Institute of Information Technology Hyderabad
+      link: https://scholar.google.com/citations?hl=en&user=sIvMnGQAAAAJ&view_op=list_works&sortby=pubdate
 program_committee:
     - name: Gustavo Aguilar
       affiliation: University of Houston
@@ -71,9 +74,6 @@ program_committee:
       affiliation: Carnegie Mellon University
     - name: Seza Doğruöz
       affiliation: Ghent University
-      
-    
-    
 organizers:
     - name: Thamar Solorio (contact person)
       link: http://solorio.uh.edu
@@ -162,9 +162,10 @@ The workshop will invite contributions from researchers working in NLP and speec
 <h2 class="subtitle" id="important-dates"><a href="#important-dates" class="text-primary-red">Important Dates</a></h2>
 <hr class="custom-line">
 
-- Workshop submission deadline (long, short and special track): March 15th, 2021
+- Workshop submission deadline (long, short and special track): March 29th, 2021
 - Notification of acceptance: April 15th, 2021
-- Workshop date: June 11th, 2021
+- Camera ready papers due: April 26th
+- Workshop date: June 11th
 
 <h2 class="subtitle" id="shared-task"><a href="#shared-task" class="text-primary-red">Shared Tasks on Machine Translation in Code-Switching Settings</a></h2>
 <hr class="custom-line">
@@ -206,13 +207,9 @@ To access the data sets go here: [Linguistic Code-Switching Evaluation Benchmark
 <h5 class="subtitle" id="timeline"><a href="#timeline" class="text-primary-red">Timeline</a></h5>
 
 - Shared Task training data release: Feb 26th
-- Workshop papers due: March 29th
 - Shared Task test phase: April 1-7th
 - Shared Task System description papers due: April 15th
-- Notifications for regular workshop papers: April 15th
 - Shared Task reviews back to authors: April 22nd
-- Camera ready papers due: April 26th
-- Workshop date: June 11th
 
 <br>
 Questions about the shared task can be sent to: <calcsworkshops@gmail.com>
@@ -239,7 +236,7 @@ Papers should be submitted electronically at [https://www.softconf.com/naacl2021
 
 <h5 class="subtitle" id="rising-stars-track"><a href="#rising-stars-track" class="text-primary-red">*NEW* Rising Stars Track *NEW*</a></h5>
 <p>
-We also invite non-archival one page abstracts of recently published work highlighting the CSW research by young researchers or early career investigators. The goal is to help increase the visibility of PhD students, Postdocs and early career investigators (loosely defined) working in the space of language technology for CSW. Please note that you should use the anonymized template for submission.
+We also invite non-archival one page abstracts of recently published work highlighting the CSW research by young researchers or early career investigators. The goal is to help increase the visibility of PhD students, Postdocs and early career investigators (loosely defined) working in the space of language technology for CSW. Please note that you should use the anonymized template for submission and you can use unlimited number of pages for references.
 </p>
 
 <div class="invited-speakers">
@@ -248,7 +245,7 @@ We also invite non-archival one page abstracts of recently published work highli
     <div>
         {% for person in page.invited_speakers %}
         <div class="person-pc">
-            <span class="text-primary-red name">{{person.name}}</span>
+            <span><a href="{{person.link}}" class="text-primary-red name">{{person.name}}</a></span>
             <span>&nbsp;&nbsp;</span>
             <span>{{person.affiliation}}</span>
         </div>
