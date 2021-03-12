@@ -191,11 +191,11 @@ We provide raw data with no gold label translations. Participants are challenged
 - Modern Standard Arabic-Egyptian Arabic → English
 - Modern Standard Arabic-Egyptian Arabic → Spanish
 
-For examples:
-- \[**Spanish-English → English**\]: I’m expecting dos camonietas llenas de rosas This weekend. → I’m expecting two trucks full of roses This weekend.
-- \[**Spanish-English → Spanish**\]: Es viernes y el outfit lo sabe → Es viernes y el atuendo lo sabe
-- \[**English → Spanish**\]: My goal is to move to my own apartment next year → Mi objetivo es mudarme a mi propio apartamento el próximo año
-- \[**Spanish → English**\]: A mi manera o pa la calle!! → My way or the highway!!
+For example:
+- **\[Spanish-English → English\]**: I’m expecting dos camonietas llenas de rosas This weekend. → I’m expecting two trucks full of roses This weekend.
+- **\[Spanish-English → Spanish\]**: Es viernes y el outfit lo sabe → Es viernes y el atuendo lo sabe
+- **\[English → Spanish\]**: My goal is to move to my own apartment next year → Mi objetivo es mudarme a mi propio apartamento el próximo año
+- **\[Spanish → English\]**: A mi manera o pa la calle!! → My way or the highway!!
 
 <h5 class="subtitle" id="evaluation"><a href="#evaluation" class="text-primary-red">Evaluation</a></h5>
 The leaderboard will rank systems based on BLUE scores. We also plan to do a smaller, human evaluation that will be presented at the workshop.
