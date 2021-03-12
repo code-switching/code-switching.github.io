@@ -187,8 +187,6 @@ We provide raw data with no gold label translations. Participants are challenged
 - Spanish-English → English
 - Spanish-English → Spanish
 - English → Spanish-English
-- Spanish → Spanish-English
-- Spanish → English
 - English → Spanish
 - Modern Standard Arabic-Egyptian Arabic → English
 - Modern Standard Arabic-Egyptian Arabic → Spanish
@@ -208,11 +206,11 @@ To access the data sets go here: [Linguistic Code-Switching Evaluation Benchmark
 <h5 class="subtitle" id="timeline"><a href="#timeline" class="text-primary-red">Timeline</a></h5>
 
 - Shared Task training data release: Feb 26th
+- Workshop papers due: March 29th
 - Shared Task test phase: April 1-7th
 - Shared Task System description papers due: April 15th
-- Shared Task reviews back to authors: April 22nd
 - Notifications for regular workshop papers: April 15th
-- Workshop papers due: March 29th
+- Shared Task reviews back to authors: April 22nd
 - Camera ready papers due: April 26th
 - Workshop date: June 11th
 
@@ -241,7 +239,7 @@ Papers should be submitted electronically at [https://www.softconf.com/naacl2021
 
 <h5 class="subtitle" id="rising-stars-track"><a href="#rising-stars-track" class="text-primary-red">*NEW* Rising Stars Track *NEW*</a></h5>
 <p>
-We also invite non-archival one page abstracts of recently published work highlighting the CSW research by young researchers or early career investigators. The goal is to help increase the visibility of PhD students, Postdocs and early career investigators (loosely defined) working in the space of language technology for CSW.
+We also invite non-archival one page abstracts of recently published work highlighting the CSW research by young researchers or early career investigators. The goal is to help increase the visibility of PhD students, Postdocs and early career investigators (loosely defined) working in the space of language technology for CSW. Please note that you should use the anonymized template for submission.
 </p>
 
 <div class="invited-speakers">
