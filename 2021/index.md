@@ -167,6 +167,8 @@ The workshop will invite contributions from researchers working in NLP and speec
 - Camera ready papers due: April 26th
 - Workshop date: June 11th
 
+**All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").**
+
 <h2 class="subtitle" id="shared-task"><a href="#shared-task" class="text-primary-red">Shared Tasks on Machine Translation in Code-Switching Settings</a></h2>
 <hr class="custom-line">
 
