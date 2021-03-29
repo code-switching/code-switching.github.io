@@ -206,6 +206,8 @@ The leaderboard will rank systems based on BLUE scores. We also plan to do a sma
 <h5 class="subtitle" id="datasets"><a href="#datasets" class="text-primary-red">Datasets</a></h5>
 To access the data sets go here: [Linguistic Code-Switching Evaluation Benchmark](https://ritual.uh.edu/lince/datasets)
 
+**[Update (03/29/2021)]:**  The usernames are removed from the datasets. Please download the newest version of datasets from the link above.
+
 <h5 class="subtitle" id="timeline"><a href="#timeline" class="text-primary-red">Timeline</a></h5>
 
 - Shared Task training data release: Feb 26th
