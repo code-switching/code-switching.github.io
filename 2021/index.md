@@ -201,17 +201,20 @@ For example:
 - **\[Spanish → English\]**: A mi manera o pa la calle!! → My way or the highway!!
 
 <h5 class="subtitle" id="evaluation"><a href="#evaluation" class="text-primary-red">Evaluation</a></h5>
-The leaderboard will rank systems based on BLUE scores. We also plan to do a smaller, human evaluation that will be presented at the workshop.
+We will use [Linguistic Code-Switching Evaluation Benchmark](https://ritual.uh.edu/lince/home). The leaderboard will rank systems based on BLUE scores. We also plan to do a smaller, human evaluation that will be presented at the workshop. 
 
 <h5 class="subtitle" id="datasets"><a href="#datasets" class="text-primary-red">Datasets</a></h5>
 To access the data sets go here: [Linguistic Code-Switching Evaluation Benchmark](https://ritual.uh.edu/lince/datasets)
 
-**[Update (03/29/2021)]:**  The usernames are removed from the datasets. Please download the newest version of datasets from the link above.
+**[Update (03/29/2021)]:**  The usernames are removed from the datasets. Please download the newest version of datasets from Lince.
+<br>
+**[Update (03/31/2021)]:**  The test data has been released. You can make sumissions on Lince!
 
 <h5 class="subtitle" id="timeline"><a href="#timeline" class="text-primary-red">Timeline</a></h5>
 
 - Shared Task training data release: Feb 26th
-- Shared Task test phase: April 1-7th
+- ~~Shared Task test phase: April 1st - 7th~~
+- <font color=red>Shared Task test phase: April 15th - 22nd</font>
 - Shared Task System description papers due: April 15th
 - Shared Task reviews back to authors: April 22nd
 
