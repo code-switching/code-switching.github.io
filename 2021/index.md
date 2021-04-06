@@ -214,7 +214,7 @@ To access the data sets go here: [Linguistic Code-Switching Evaluation Benchmark
 
 - Shared Task training data release: Feb 26th
 - ~~Shared Task test phase: April 1st - 7th~~
-- <font color=red>Shared Task test phase: April 15th - 22nd</font>
+- <font color=red>Shared Task test phase: April 19th - 25th</font>
 - ~~Shared Task System description papers due: April 15th~~
 - <font color=red>Shared Task System description papers due: April 30th</font>
 - ~~Shared Task reviews back to authors: April 22nd~~
