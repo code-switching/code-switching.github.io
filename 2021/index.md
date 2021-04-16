@@ -164,7 +164,7 @@ The workshop will invite contributions from researchers working in NLP and speec
 
 - Workshop submission deadline (long, short and special track): March 29th
 - ~~Notification of acceptance: April 15th~~
-- - <font color=red>Notification of acceptance: April 19th</font>
+- <font color=red>Notification of acceptance: April 19th</font>
 - Camera ready papers due: April 26th
 - Workshop date: June 11th
 
