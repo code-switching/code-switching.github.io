@@ -209,7 +209,7 @@ To access the data sets go here: [Linguistic Code-Switching Evaluation Benchmark
 
 **[Update (03/29/2021)]:**  The usernames are removed from the datasets. Please download the newest version of datasets from Lince.
 <br>
-<!-- **[Update (03/31/2021)]:**  The test data has been released. You can downlaod it from Lince! -->
+**[Update (04/19/2021)]:**  The test sets for **ENG-HINGLISH**, **ENG-SPA**, and **SPANGLISH-ENG** have been released! You can downlaod them from Lince now!
 
 <h5 class="subtitle" id="timeline"><a href="#timeline" class="text-primary-red">Timeline</a></h5>
 
