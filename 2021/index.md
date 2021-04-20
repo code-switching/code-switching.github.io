@@ -194,6 +194,7 @@ We provide raw data with no gold label translations. Participants are challenged
 - English → Spanish
 - Modern Standard Arabic-Egyptian Arabic → English
 - Modern Standard Arabic-Egyptian Arabic → Spanish
+- English → Modern Standard Arabic-Egyptian Arabic
 
 For example:
 - **\[Spanish-English → English\]**: I’m expecting dos camonietas llenas de rosas This weekend. → I’m expecting two trucks full of roses This weekend.
@@ -210,6 +211,8 @@ To access the data sets go here: [Linguistic Code-Switching Evaluation Benchmark
 **[Update (03/29/2021)]:**  The usernames are removed from the datasets. Please download the newest version of datasets from Lince.
 <br>
 **[Update (04/19/2021)]:**  The test sets for **ENG-HINGLISH**, **ENG-SPA**, and **SPANGLISH-ENG** have been released! You can downlaod them from Lince now!
+<br>
+**[Update (04/20/2021)]:**  The test sets for **ENG-SPANGLISH**, **MSAEA-ENG**, and **ENG-MSAEA** have been released!
 
 <h5 class="subtitle" id="timeline"><a href="#timeline" class="text-primary-red">Timeline</a></h5>
 
