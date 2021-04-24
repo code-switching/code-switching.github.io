@@ -210,9 +210,11 @@ To access the data sets go here: [Linguistic Code-Switching Evaluation Benchmark
 
 **[Update (03/29/2021)]:**  The usernames are removed from the datasets. Please download the newest version of datasets from Lince.
 <br>
-**[Update (04/19/2021)]:**  The test sets for **ENG-HINGLISH**, **ENG-SPA**, and **SPANGLISH-ENG** have been released! You can downlaod them from Lince now!
+**[Update (04/19/2021)]:**  The test sets for <u>ENG-HINGLISH</u>, <u>ENG-SPA</u>, and <u>SPANGLISH-ENG</u> have been released! You can downlaod them from Lince now!
 <br>
-**[Update (04/20/2021)]:**  The test sets for **ENG-SPANGLISH**, **MSAEA-ENG**, and **ENG-MSAEA** have been released!
+**[Update (04/20/2021)]:**  The test sets for <u>ENG-SPANGLISH</u>, <u>MSAEA-ENG</u>, and <u>ENG-MSAEA</u> have been released!
+<br>
+**[Update (04/24/2021)]**:  We will **NOT** evaluate <u>ENG-SPA</u> and <u>MSAEA-SPA</u>. Please just submit your results for above 5 tasks. Also, please **<font color=red>NOTE</font>** that you need to make your results public before the deadline!
 
 <h5 class="subtitle" id="timeline"><a href="#timeline" class="text-primary-red">Timeline</a></h5>
 
