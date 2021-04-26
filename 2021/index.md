@@ -216,7 +216,7 @@ To access the data sets go here: [Linguistic Code-Switching Evaluation Benchmark
 <br>
 **[Update (04/24/2021)]**:  We will **NOT** evaluate <u>ENG-SPA</u> and <u>MSAEA-SPA</u>. Please just submit your results for above 5 tasks. Also, please **<font color=red>NOTE</font>** that you need to make your results public before the deadline!
 <br>
-**[Update (04/26/2021)]**:  The submission deadline is not postponed to **<font color=red>Apr 26th, 2021</font>**!
+**[Update (04/26/2021)]**:  The submission deadline is now postponed to **<font color=red>Apr 26th, 2021</font>**!
 
 <h5 class="subtitle" id="timeline"><a href="#timeline" class="text-primary-red">Timeline</a></h5>
 
