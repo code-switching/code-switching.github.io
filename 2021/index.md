@@ -252,7 +252,7 @@ Papers that have been or will be submitted to other meetings or publications are
 </p>
 
 <h5 class="subtitle" id="electronic-submission"><a href="#electronic-submission" class="text-primary-red">Electronic Submission</a></h5>
-The papers for both workshop and the shared tasks should be submitted electronically at [https://www.softconf.com/naacl2021/calcs2021](https://www.softconf.com/naacl2021/calcs2021).
+The papers for both workshop and the shared tasks should be submitted electronically at [softconf](https://www.softconf.com/naacl2021/calcs2021).
 
 <h5 class="subtitle" id="rising-stars-track"><a href="#rising-stars-track" class="text-primary-red">*NEW* Rising Stars Track *NEW*</a></h5>
 <p>
