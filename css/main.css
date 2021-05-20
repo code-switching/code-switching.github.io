@@ -224,3 +224,26 @@ display: block;
 .text-primary-red {
     color: #d9230f!important;   
 }
+
+table {
+    border-collapse: collapse;
+}
+
+caption {
+    font-size: larger;
+    margin: 1em auto;
+}
+
+th,td {
+    padding: .65em;
+}
+
+th {
+    background:navajowhite;
+    /* border: 1px solid #777; */
+    /* color: #fff; */
+}
+
+td {
+    border: 1px solid#777;
+}
