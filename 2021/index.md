@@ -13,6 +13,8 @@ navbar:
       link: /2021#shared-task
     - name: Submission
       link: /2021#submission
+    - name: Program
+      link: /2021#program
     - name: Invited Speakers
       link: /2021#invited-speakers-id
     - name: Committee
@@ -164,7 +166,7 @@ The workshop will invite contributions from researchers working in NLP and speec
 
 - Workshop submission deadline (long, short and special track): March 29th
 - ~~Notification of acceptance: April 15th~~
-- <font color=red>Notification of acceptance: April 19th</font>
+- *<font color=red>*Notification of acceptance: April 19th</font>
 - Camera ready papers due: April 26th
 - Workshop date: June 11th
 
@@ -214,9 +216,9 @@ To access the data sets go here: [Linguistic Code-Switching Evaluation Benchmark
 <br>
 **[Update (04/20/2021)]:**  The test sets for <u>ENG-SPANGLISH</u>, <u>MSAEA-ENG</u>, and <u>ENG-MSAEA</u> have been released!
 <br>
-**[Update (04/24/2021)]**:  We will **NOT** evaluate <u>ENG-SPA</u> and <u>MSAEA-SPA</u>. Please just submit your results for above 5 tasks. Also, please **<font color=red>NOTE</font>** that you need to make your results public before the deadline!
+**[Update (04/24/2021)]**:  We will **NOT** evaluate <u>ENG-SPA</u> and <u>MSAEA-SPA</u>. Please just submit your results for above 5 tasks. Also, please ***<font color=red>*NOTE</font>** that you need to make your results public before the deadline!
 <br>
-**[Update (04/26/2021)]**:  The submission deadline is now postponed to **<font color=red>Apr 26th, 2021</font>**!
+**[Update (04/26/2021)]**:  The submission deadline is now postponed to ***<font color=red>*Apr 26th, 2021</font>**!
 <br>
 **[Update (04/29/2021)]**:  All the datasets for the CALCS 2021 shared tasks have been released. Please check them [here](https://ritual.uh.edu/lince/datasets).
 
@@ -224,11 +226,11 @@ To access the data sets go here: [Linguistic Code-Switching Evaluation Benchmark
 
 - Shared Task training data release: Feb 26th
 - ~~Shared Task test phase: April 1st - 7th~~
-- <font color=red>Shared Task test phase: April 19th - 26th</font>
+- *<font color=red>*Shared Task test phase: April 19th - 26th</font>
 - ~~Shared Task System description papers due: April 15th~~
-- <font color=red>Shared Task System description papers due: April 30th</font>
+- *<font color=red>*Shared Task System description papers due: April 30th</font>
 - ~~Shared Task reviews back to authors: April 22nd~~
-- <font color=red>Shared Task reviews back to authors: May 8th</font>
+- *<font color=red>*Shared Task reviews back to authors: May 8th</font>
 - Shared Task Camera ready papers due: May 15th
 
 <br>
@@ -259,6 +261,171 @@ The papers for both workshop and the shared tasks should be submitted electronic
 We also invite non-archival one page abstracts of recently published work highlighting the CSW research by young researchers or early career investigators. The goal is to help increase the visibility of PhD students, Postdocs and early career investigators (loosely defined) working in the space of language technology for CSW. Please note that you should use the anonymized template for submission and you can use unlimited number of pages for references.
 </p>
 
+<div class="program">
+    <h2 class="subtitle" id="program"><a href="#program" class="text-primary-red">Program</a></h2>
+    <hr class="custom-line">
+    <div>
+        <table border="1" cellspacing="10">
+          <thead>
+            <tr>
+              <th> </th>
+              <th style="text-align:center;">CALCS @ NAACL 2021</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>08:00 - 10:30</strong></td>
+              <td><strong>Morning Session I</strong></td>
+            </tr>
+            <tr>
+              <td valign="top">08:00 - 08:15</td>
+              <td><em>Welcome Remarks</em> <br /> Thamar Solorio</td>
+            </tr>
+            <tr>
+              <td valign="top">08:15 - 09:00</td>
+              <td><em>Invited Talk</em> <br /> Manish Shrivastava</td>
+            </tr>
+            <tr>
+              <td valign="top">09:00 - 09:30</td>
+              <td><em>Lighting Talks</em> <br /> Thamar Solorio</td>
+            </tr>
+            <tr>
+              <td valign="top">09:30 - 09:40</td>
+              <td><em><font color="red">Political Discourse Analysis: A Case Study of Code Mixing and Code Switching in Political Speeches</font></em> <br /> Dama Sravani, Lalitha Kameswari and Radhika Mamidi</td>
+            </tr>
+            <tr>
+              <td valign="top">09:40 - 09:50</td>
+              <td><em><font color="red">Challenges and Limitations with the Metrics Measuring the Complexity of Code- Mixed Text</font></em>  <br /> Vivek Srivastava and Mayank Singh</td>
+            </tr>
+            <tr>
+              <td valign="top">09:50 - 10:00</td>
+              <td><em><font color="red">Translate and Classify: Improving Sequence Level Classification for English-Hindi Code-Mixed Data</font></em> <br /> Devansh Gautam, Kshitij Gupta and Manish Shrivastava</td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>10:00 - 10:30</strong></td>
+              <td><strong><em>Break I</em></strong></td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>10:30 - 13:00</strong></td>
+              <td><strong>Morning Session II</strong></td>
+            </tr>
+            <tr>
+              <td valign="top">10:30 - 10:40</td>
+              <td><em>Shared Task Overview</em> <br /> Thamar Solorio</td>
+            </tr>
+            <tr>
+              <td valign="top">10:40 - 10:50</td>
+              <td><em><font color="red">Gated Convolutional Sequence to Sequence Based Learning for English-Hingilsh Code-Switched <br /> Machine Translation.</font></em> <br /> Suman Dowlagar and Radhika Mamidi</td>
+            </tr>
+            <tr>
+              <td valign="top">10:50 - 11:00</td>
+              <td><em><font color="red">IITP-MT at CALCS2021: English to Hinglish Neural Machine Translation using Unsupervised <br /> Synthetic Code-Mixed Parallel Corpus</font></em> <br /> Ramakrishna Appicharla, Kamal Kumar Gupta, Asif Ekbal and Pushpak Bhat- tacharyya</td>
+            </tr>
+            <tr>
+              <td valign="top">11:00 - 11:10</td>
+              <td><em><font color="red">Exploring Text-to-Text Transformers for English to Hinglish Machine Translation with  <br /> Synthetic Code-Mixing</font></em> <br /> Ganesh Jawahar, El Moatez Billah Nagoudi, Muhammad Abdul-Mageed and Laks Lakshmanan, V.S.</td>
+            </tr>
+            <tr>
+              <td valign="top">11:10 - 11:20</td>
+              <td><em><font color="red">CoMeT: Towards Code-Mixed Translation Using Parallel Monolingual Sentences</font></em> <br /> Devansh Gautam, Prashant Kodali, Kshitij Gupta, Anmol Goel, Manish Shrivastava and Ponnurangam Kumaraguru</td>
+            </tr>
+            <tr>
+              <td valign="top">11:20 - 11:30</td>
+              <td><em><font color="red">Investigating Code-Mixed Modern Standard Arabic-Egyptian to English Machine Translation</font></em> <br /> El Moatez Billah Nagoudi, AbdelRahim Elmadany and Muhammad Abdul-Mageed</td>
+            </tr>
+            <tr>
+              <td valign="top">11:30 - 12:15</td>
+              <td><em>Invited Talk</em> <br /> Özlem Çetinog ̆lu</td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>12:15 - 13:00</strong></td>
+              <td><strong><em>Lunch Break</em></strong></td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>13:00 - 15:30</strong></td>
+              <td><strong>Afternoon Session I</strong></td>
+            </tr>
+            <tr>
+              <td valign="top">13:00 - 13:10</td>
+              <td><em><font color="red">Much Gracias: Semi-supervised Code-switch Detection for Spanish-English: How far <br /> can we get?</font></em> <br /> Dana-Maria Iliescu, Rasmus Grand, Sara Qirko and Rob van der Goot</td>
+            </tr>
+            <tr>
+              <td valign="top">13:10 - 13:20</td>
+              <td><em><font color="red">A Language-aware Approach to Code-switched Morphological Tagging</font></em><br /> Saziye Betül Özates ̧ and Özlem Çetinog ̆lu</td>
+            </tr>
+            <tr>
+              <td valign="top">13:20 - 13:30</td>
+              <td><em><font color="red">Can You Traducir This? Machine Translation for Code-Switched Input</font></em> <br /> Jitao Xu and François Yvon</td>
+            </tr>
+            <tr>
+              <td valign="top">13:30 - 13:40</td>
+              <td><em><font color="red">On the logistical difficulties and findings of Jopara Sentiment Analysis</font></em> <br /> Marvin Agüero-Torales, David Vilares and Antonio López-Herrera</td>
+            </tr>
+            <tr>
+              <td valign="top">13:40 - 15:00</td>
+              <td><em>Panel Discussion Moderated by Mona Diab</em> <br /> Panelists: Kalika Bali, Pushpak Bhattacharyya, Marina Fomicheva, Philipp Koehn, Holger Schwenk</td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>15:00 - 15:30</strong></td>
+              <td><strong><em>Midday Short Break</em></strong></td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>15:30 - 16:45</strong></td>
+              <td><strong>Afternoon Session II</strong></td>
+            </tr>
+            <tr>
+              <td valign="top">15:30 - 16:15</td>
+              <td><em>Invited Talk</em> <br /> Ngoc Thang Vu</td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>16:15 - 16:45</strong></td>
+              <td><strong><em>Evening Break</em></strong></td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>16:45 - 18:15</strong></td>
+              <td><strong>Evening Session</strong></td>
+            </tr>
+            <tr>
+              <td valign="top">16:45 - 16:55</td>
+              <td><em><font color="red">Unsupervised Self-Training for Sentiment Analysis of Code-Switched Data</font></em> <br /> Akshat Gupta, Sargam Menghani, Sai Krishna Rallabandi and Alan W Black</td>
+            </tr>
+            <tr>
+              <td valign="top">16:55 - 17:05</td>
+              <td><em><font color="red">CodemixedNLP: An Extensible and Open NLP Toolkit for Code-Mixing</font></em> <br /> Sai Muralidhar Jayanthi, Kavya Nerella, Khyathi Raghavi Chandu and Alan W Black</td>
+            </tr>
+            <tr>
+              <td valign="top">17:05 - 17:15</td>
+              <td><em><font color="red">Normalization and Back-Transliteration for Code-Switched Data</font></em> <br /> Dwija Parikh and Thamar Solorio</td>
+            </tr>
+            <tr>
+              <td valign="top">17:15 - 17:25</td>
+              <td><em><font color="red">Abusive content detection in transliterated Bengali-English social media corpus</font></em> <br /> Salim Sazzed</td>
+            </tr>
+            <tr>
+              <td valign="top">17:25 - 17:35</td>
+              <td><em><font color="red">Developing ASR for Indonesian-English Bilingual Language Teaching</font></em> <br /> Zara Maxwelll-Smith and Ben Foley</td>
+            </tr>
+            <tr>
+              <td valign="top">17:35 - 17:45</td>
+              <td><em><font color="red">Transliteration for Low-Resource Code-Switching Texts: Building an Automatic Cyrillic-to-Latin Converter for Tatar</font></em> <br /> Chihiro Taguchi, Yusuke Sakai and Taro Watanabe</td>
+            </tr>
+            <tr>
+              <td valign="top">17:45 - 17:55</td>
+              <td><em><font color="red">Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots</font></em>  <br /> Samson Tan and Shafiq Joty</td>
+            </tr>
+            <tr>
+              <td valign="top">17:55 - 18:05</td>
+              <td><em><font color="red">Are Multilingual Models Effective in Code-Switching?</font></em>  <br /> Genta Indra Winata, Samuel Cahyawijaya, Zihan Liu, Zhaojiang Lin, Andrea Madotto and Pascale Fung</td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>18:05 - 18:15</strong></td>
+              <td><strong><em>Closing Remarks</em></strong></td>
+            </tr>
+          </tbody>
+        </table>
+    </div>
+</div>
+
 <div class="invited-speakers">
     <h2 class="subtitle" id="invited-speakers-id"><a href="#invited-speakers-id" class="text-primary-red">Invited Speakers</a></h2>
     <hr class="custom-line">
@@ -272,9 +439,6 @@ We also invite non-archival one page abstracts of recently published work highli
         {% endfor %}
     </div>
 </div>
-
-<br>
-
 
 <div class="program-committee">
     <h2 class="subtitle" id="program-committee-id"><a href="#program-committee-id" class="text-primary-red">Program Committee</a></h2>
