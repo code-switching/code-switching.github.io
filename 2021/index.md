@@ -268,8 +268,8 @@ We also invite non-archival one page abstracts of recently published work highli
         <table border="1" cellspacing="10">
           <thead>
             <tr>
-              <th> </th>
-              <th style="text-align:center;">CALCS @ NAACL 2021</th>
+              <th width="14%"></th>
+              <th style="text-align:center;">CALCS @ NAACL 2021 <br /> Friday, June 11, 2021 (Mexico City Time, CDT, GMT-5)</th>
             </tr>
           </thead>
           <tbody>
@@ -315,15 +315,15 @@ We also invite non-archival one page abstracts of recently published work highli
             </tr>
             <tr>
               <td valign="top">10:40 - 10:50</td>
-              <td><em><font color="red">Gated Convolutional Sequence to Sequence Based Learning for English-Hingilsh Code-Switched <br /> Machine Translation.</font></em> <br /> Suman Dowlagar and Radhika Mamidi</td>
+              <td><em><font color="red">Gated Convolutional Sequence to Sequence Based Learning for English-Hingilsh Code-Switched Machine Translation.</font></em> <br /> Suman Dowlagar and Radhika Mamidi</td>
             </tr>
             <tr>
               <td valign="top">10:50 - 11:00</td>
-              <td><em><font color="red">IITP-MT at CALCS2021: English to Hinglish Neural Machine Translation using Unsupervised <br /> Synthetic Code-Mixed Parallel Corpus</font></em> <br /> Ramakrishna Appicharla, Kamal Kumar Gupta, Asif Ekbal and Pushpak Bhat- tacharyya</td>
+              <td><em><font color="red">IITP-MT at CALCS2021: English to Hinglish Neural Machine Translation using Unsupervised Synthetic Code-Mixed Parallel Corpus</font></em> <br /> Ramakrishna Appicharla, Kamal Kumar Gupta, Asif Ekbal and Pushpak Bhat- tacharyya</td>
             </tr>
             <tr>
               <td valign="top">11:00 - 11:10</td>
-              <td><em><font color="red">Exploring Text-to-Text Transformers for English to Hinglish Machine Translation with  <br /> Synthetic Code-Mixing</font></em> <br /> Ganesh Jawahar, El Moatez Billah Nagoudi, Muhammad Abdul-Mageed and Laks Lakshmanan, V.S.</td>
+              <td><em><font color="red">Exploring Text-to-Text Transformers for English to Hinglish Machine Translation with Synthetic Code-Mixing</font></em> <br /> Ganesh Jawahar, El Moatez Billah Nagoudi, Muhammad Abdul-Mageed and Laks Lakshmanan, V.S.</td>
             </tr>
             <tr>
               <td valign="top">11:10 - 11:20</td>
@@ -347,7 +347,7 @@ We also invite non-archival one page abstracts of recently published work highli
             </tr>
             <tr>
               <td valign="top">13:00 - 13:10</td>
-              <td><em><font color="red">Much Gracias: Semi-supervised Code-switch Detection for Spanish-English: How far <br /> can we get?</font></em> <br /> Dana-Maria Iliescu, Rasmus Grand, Sara Qirko and Rob van der Goot</td>
+              <td><em><font color="red">Much Gracias: Semi-supervised Code-switch Detection for Spanish-English: How far can we get?</font></em> <br /> Dana-Maria Iliescu, Rasmus Grand, Sara Qirko and Rob van der Goot</td>
             </tr>
             <tr>
               <td valign="top">13:10 - 13:20</td>
