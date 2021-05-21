@@ -335,7 +335,7 @@ We also invite non-archival one page abstracts of recently published work highli
             </tr>
             <tr>
               <td valign="top">11:30 - 12:15</td>
-              <td><em>Invited Talk</em> <br /> Özlem Çetinog ̆lu</td>
+              <td><em>Invited Talk</em> <br /> Özlem Çetinoğlu</td>
             </tr>
             <tr>
               <td valign="top"><strong>12:15 - 13:00</strong></td>
@@ -351,7 +351,7 @@ We also invite non-archival one page abstracts of recently published work highli
             </tr>
             <tr>
               <td valign="top">13:10 - 13:20</td>
-              <td><em><font color="red">A Language-aware Approach to Code-switched Morphological Tagging</font></em><br /> Saziye Betül Özates ̧ and Özlem Çetinog ̆lu</td>
+              <td><em><font color="red">A Language-aware Approach to Code-switched Morphological Tagging</font></em><br /> Şaziye Betül Özateş ̧ and Özlem Çetinoğlu</td>
             </tr>
             <tr>
               <td valign="top">13:20 - 13:30</td>
