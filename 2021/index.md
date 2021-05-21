@@ -351,7 +351,7 @@ We also invite non-archival one page abstracts of recently published work highli
             </tr>
             <tr>
               <td valign="top">13:10 - 13:20</td>
-              <td><em><font color="red">A Language-aware Approach to Code-switched Morphological Tagging</font></em><br /> Şaziye Betül Özateş ̧ and Özlem Çetinoğlu</td>
+              <td><em><font color="red">A Language-aware Approach to Code-switched Morphological Tagging</font></em><br /> Şaziye Betül Özateş and Özlem Çetinoğlu</td>
             </tr>
             <tr>
               <td valign="top">13:20 - 13:30</td>
