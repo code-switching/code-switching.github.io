@@ -15,6 +15,8 @@ navbar:
       link: /2021#submission
     - name: Program
       link: /2021#program
+    - name: Registration
+      link: /2021#reg
     - name: Invited Speakers
       link: /2021#invited-speakers-id
     - name: Committee
@@ -130,6 +132,13 @@ organizers:
         - Research Fellow
         - Microsoft Research India
 ---
+<h2 class="subtitle" id="registration"><a href="#reg" class="text-primary-red">Registration to the Workshop</a></h2>
+<hr class="custom-line">
+
+<p>
+Participants interested to join the workshop program should register at the NAACL main registration site following this link: [Registration to NAACL-HLT 2021](https://ritual.uh.edu/lince/datasets)
+</p>
+
 
 <h2 class="subtitle" id="call-for-papers"><a href="#call-for-papers" class="text-primary-red">First Call for Papers</a></h2>
 <hr class="custom-line">
