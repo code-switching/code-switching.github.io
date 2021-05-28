@@ -136,7 +136,7 @@ organizers:
 <hr class="custom-line">
 
 <p>
-Participants interested to join the workshop program should register at the NAACL main registration site following this link: [Registration to NAACL-HLT 2021](https://ritual.uh.edu/lince/datasets)
+Participants interested to join the workshop program should register at the NAACL main registration site following this link: <a href="https://aclweb.org/conference/virtual-naacl-hlt-2021-conference-registration/">Registration to NAACL-HLT 2021</a>
 </p>
 
 
