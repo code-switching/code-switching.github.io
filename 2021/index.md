@@ -283,19 +283,11 @@ We also invite non-archival one page abstracts of recently published work highli
           </thead>
           <tbody>
             <tr>
-              <td><strong>08:00 - 10:30</strong></td>
-              <td><strong>Morning Session I</strong></td>
-            </tr>
-            <tr>
-              <td valign="top">08:00 - 08:15</td>
+              <td valign="top">09:00 - 09:05</td>
               <td><em>Welcome Remarks</em> <br /> Thamar Solorio</td>
             </tr>
             <tr>
-              <td valign="top">08:15 - 09:00</td>
-              <td><em>Invited Talk</em> <br /> Manish Shrivastava</td>
-            </tr>
-            <tr>
-              <td valign="top">09:00 - 09:30</td>
+              <td valign="top">09:05 - 09:30</td>
               <td><em>Lighting Talks</em> <br /> Thamar Solorio</td>
             </tr>
             <tr>
