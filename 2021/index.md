@@ -288,7 +288,8 @@ We also invite non-archival one page abstracts of recently published work highli
             </tr>
             <tr>
               <td valign="top">09:05 - 09:30</td>
-              <td><em>Lighting Talks</em> <br /> Thamar Solorio</td>
+              <td><em>Lighting Talks</em>
+                </td>
             </tr>
             <tr>
               <td valign="top">09:30 - 09:40</td>
