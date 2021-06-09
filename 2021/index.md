@@ -284,7 +284,7 @@ We also invite non-archival one page abstracts of recently published work highli
           <tbody>
             <tr>
               <td valign="top">09:00 - 09:05</td>
-              <td><em>Welcome Remarks</em> <br /> Thamar Solorio</td>
+              <td><em>Welcome Remarks</em> <br /> Victor Soto</td>
             </tr>
             <tr>
               <td valign="top">09:05 - 09:30</td>
@@ -313,7 +313,7 @@ We also invite non-archival one page abstracts of recently published work highli
             </tr>
             <tr>
               <td valign="top">10:30 - 10:40</td>
-              <td><em>Shared Task Overview</em> <br /> Thamar Solorio</td>
+              <td><em>Shared Task Overview</em> <br /> Mona Diab</td>
             </tr>
             <tr>
               <td valign="top">10:40 - 10:50</td>
@@ -421,7 +421,7 @@ We also invite non-archival one page abstracts of recently published work highli
             </tr>
             <tr>
               <td valign="top"><strong>18:05 - 18:15</strong></td>
-              <td><strong><em>Closing Remarks</em></strong></td>
+              <td><strong><em>Closing Remarks</em></strong><br /> Mona Diab</td>
             </tr>
           </tbody>
         </table>
