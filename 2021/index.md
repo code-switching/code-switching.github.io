@@ -337,7 +337,7 @@ We also invite non-archival one page abstracts of recently published work highli
             </tr>
             <tr>
               <td valign="top">11:30 - 12:15</td>
-              <td><em>Invited Talk</em> <br /> Özlem Çetinoğlu</td>
+              <td><em>Invited Talk: Computational Structural Analysis of German-Turkish Code-Switching: Experiences and Insights</em> <br /> Özlem Çetinoğlu</td>
             </tr>
             <tr>
               <td valign="top"><strong>12:15 - 13:00</strong></td>
@@ -377,7 +377,7 @@ We also invite non-archival one page abstracts of recently published work highli
             </tr>
             <tr>
               <td valign="top">15:30 - 16:15</td>
-              <td><em>Invited Talk</em> <br /> Ngoc Thang Vu</td>
+              <td><em>Invited Talk: Automatic Speech Recognition for Code-Switching Speech</em> <br /> Ngoc Thang Vu</td>
             </tr>
             <tr>
               <td valign="top"><strong>16:15 - 16:45</strong></td>
