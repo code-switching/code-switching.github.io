@@ -7,20 +7,6 @@ cover_banner: Computational Approaches to Linguistic Code-Switching, CALCS 2023
 navbar:
     - name: Calls
       link: /2023#call-for-papers
-    - name: Important Dates
-      link: /2023#important-dates
-    - name: Shared Task
-      link: /2023#shared-task
-    - name: Submission
-      link: /2023#submission
-    - name: Program
-      link: /2023#program
-    - name: Registration
-      link: /2023#reg
-    - name: Invited Speakers
-      link: /2023#invited-speakers-id
-    - name: Committee
-      link: /2023#program-committee-id
     - name: Organizers
       link: /2023#organizers-id
 organizers:
