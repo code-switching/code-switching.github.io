@@ -30,7 +30,7 @@ organizers:
       fields:
         - Senior Research Scientist
         - Bloomberg LP
-    - name: Sudipta Kar 
+    - name: Sudipta Kar (contact person)
       link: https://sudiptakar.info/
       email: sudipta.kar.8080@gmail.com
       fields:
