@@ -13,18 +13,21 @@ organizers:
     - name: Genta Indra Winata (contact person)
       link: https://gentawinata.com
       email: gentaindrawinata@gmail.com
+      photo: https://180dc.org/wp-content/uploads/2022/04/istockphoto-1298261537-612x612-1.jpeg
       fields:
         - Senior Research Scientist
         - Bloomberg LP
     - name: Sudipta Kar (contact person)
       link: https://sudiptakar.info/
       email: sudipta.kar.8080@gmail.com
+      photo: https://180dc.org/wp-content/uploads/2022/04/istockphoto-1298261537-612x612-1.jpeg
       fields:
         - Applied Scientist
         - Amazon Alexa AI
     - name: Marina Zhukova
       link: https://sites.google.com/view/marinazhukova/
       email: mzhukova@ucsb.edu
+      photo: https://180dc.org/wp-content/uploads/2022/04/istockphoto-1298261537-612x612-1.jpeg
       fields:
         - Ph.D. Student 
         - Department of Linguistics
@@ -32,6 +35,7 @@ organizers:
     - name: Thamar Solorio
       link: http://solorio.uh.edu/
       email: solorio@uh.edu
+      photo: https://180dc.org/wp-content/uploads/2022/04/istockphoto-1298261537-612x612-1.jpeg
       fields:
         - Professor
         - Department of Computer Science
@@ -39,6 +43,7 @@ organizers:
     - name: Mona Diab
       link: https://web.seas.gwu.edu/mtdiab/
       email: mtdiab@gwu.edu
+      photo: https://180dc.org/wp-content/uploads/2022/04/istockphoto-1298261537-612x612-1.jpeg
       fields:
         - Research Scientist, Facebook AI
         - Professor, Department of Computer Science
@@ -46,24 +51,28 @@ organizers:
     - name: Sunayana Sitaram
       link: https://www.cs.cmu.edu/~ssitaram/
       email: sunayana.sitaram@microsoft.com
+      photo: https://180dc.org/wp-content/uploads/2022/04/istockphoto-1298261537-612x612-1.jpeg
       fields:
         - Senior Researcher
         - MSR India
     - name: Sunayana Sitaram
       link: https://www.cs.cmu.edu/~ssitaram/
       email: sunayana.sitaram@microsoft.com
+      photo: https://180dc.org/wp-content/uploads/2022/04/istockphoto-1298261537-612x612-1.jpeg
       fields:
         - Senior Researcher
         - MSR India
     - name: Monojit Choudhury
       link: https://www.microsoft.com/en-us/research/people/monojitc/
       email: monojitc@microsoft.com
+      photo: https://180dc.org/wp-content/uploads/2022/04/istockphoto-1298261537-612x612-1.jpeg
       fields:
         - Principal Data and Applied Scientist
         - Microsoft Turing India
     - name: Kalika Bali
       link: https://www.microsoft.com/en-us/research/people/kalikab/
       email: kalikab@microsoft.com
+      photo: https://180dc.org/wp-content/uploads/2022/04/istockphoto-1298261537-612x612-1.jpeg
       fields:
         - Principal Researcher
         - Microsoft Research India
@@ -144,6 +153,7 @@ on code-switching applications.
     <div>
         {% for person in page.organizers %}
         <div class="person">
+            <img src="{{person.photo}}" style="border-radius: 50%;float:left;padding:10px;margin-right:5px" width="80px">
             <div><a href="{{person.link}}" class="text-primary-red name">{{person.name}}</a></div>
             {% for field in person.fields %}
                 <div>{{ field }}</div>
