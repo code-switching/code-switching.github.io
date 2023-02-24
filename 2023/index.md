@@ -35,7 +35,7 @@ organizers:
     - name: Thamar Solorio
       link: http://solorio.uh.edu/
       email: solorio@uh.edu
-      photo: https://180dc.org/wp-content/uploads/2022/04/istockphoto-1298261537-612x612-1.jpeg
+      photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/organizers/thamar.jpg
       fields:
         - Professor
         - Department of Computer Science
@@ -43,7 +43,7 @@ organizers:
     - name: Mona Diab
       link: https://web.seas.gwu.edu/mtdiab/
       email: mtdiab@gwu.edu
-      photo: https://180dc.org/wp-content/uploads/2022/04/istockphoto-1298261537-612x612-1.jpeg
+      photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/organizers/mona.jpg
       fields:
         - Research Scientist, Facebook AI
         - Professor, Department of Computer Science
@@ -51,28 +51,21 @@ organizers:
     - name: Sunayana Sitaram
       link: https://www.cs.cmu.edu/~ssitaram/
       email: sunayana.sitaram@microsoft.com
-      photo: https://180dc.org/wp-content/uploads/2022/04/istockphoto-1298261537-612x612-1.jpeg
-      fields:
-        - Senior Researcher
-        - MSR India
-    - name: Sunayana Sitaram
-      link: https://www.cs.cmu.edu/~ssitaram/
-      email: sunayana.sitaram@microsoft.com
-      photo: https://180dc.org/wp-content/uploads/2022/04/istockphoto-1298261537-612x612-1.jpeg
+      photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/organizers/sunayana.jpg
       fields:
         - Senior Researcher
         - MSR India
     - name: Monojit Choudhury
       link: https://www.microsoft.com/en-us/research/people/monojitc/
       email: monojitc@microsoft.com
-      photo: https://180dc.org/wp-content/uploads/2022/04/istockphoto-1298261537-612x612-1.jpeg
+      photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/organizers/monojit.jpg
       fields:
         - Principal Data and Applied Scientist
         - Microsoft Turing India
     - name: Kalika Bali
       link: https://www.microsoft.com/en-us/research/people/kalikab/
       email: kalikab@microsoft.com
-      photo: https://180dc.org/wp-content/uploads/2022/04/istockphoto-1298261537-612x612-1.jpeg
+      photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/organizers/kalika.jpg
       fields:
         - Principal Researcher
         - Microsoft Research India
