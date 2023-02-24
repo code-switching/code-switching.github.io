@@ -107,10 +107,18 @@ code-switching;
 9. Ethical issues and consideration
 on code-switching applications.
 
+<h2 class="subtitle" class="text-primary-red">Submissions</h2>
+<hr class="custom-line">
+The workshop accepts three categories of papers: <b>regular workshop papers, non-archival and cross-submissions</b>. Only regular workshop papers will be included in the proceedings as archival publications. The regular workshop papers are eligible for <b>the best paper award</b>. All three categories of papers may be long (maximum 8 pages plus references) or short (maximum 4 pages plus references), with unlimited additional pages for references, following the EMNLP 2023 formatting requirements. The reported research should be substantially original. Accepted papers will be presented as posters. Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference that identifies the authors should be avoided or anonymized. Accepted regular workshop papers will appear in the workshop proceedings.
+
+<h2 class="subtitle" class="text-primary-red">Shared Task</h2>
+<hr class="custom-line">
+TBA
+
 <h2 class="subtitle" id="important-dates"><a href="#important-dates" class="text-primary-red">Important Dates</a></h2>
 <hr class="custom-line">
 
-- Workshop submission deadline (long, short and special track): 7 September 2023 (Tentative)
+- Workshop submission deadline (regular and non-archival submissions): 7 September 2023 (Tentative)
 - Notification of acceptance: 9 October 2023 (Tentative)
 - Camera ready papers due: 16 October 2023 (Tentative)
 - Workshop date: November / December 2023 (Tentative)
