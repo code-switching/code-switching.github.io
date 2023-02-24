@@ -1,4 +1,4 @@
-<div class="nav-wrapper1">
+<div class="nav-wrapper1" style="padding:10px">
     <nav>
         <ul>
             {% for nav in page.navbar %}
@@ -8,7 +8,7 @@
             <li>
                 <div class="dropdown">
                     <button class="dropbtn">Workshops</button>
-                    <div class="dropdown-content">
+                    <div class="dropdown-content" style="padding:10px">
                         {% for workshop in site.workshops %}
                             <a href="{{ workshop.year | absolute_url }}">{{workshop.year}}</a>
                         {% endfor %}
@@ -16,7 +16,7 @@
                 </div>
             </li>
 
-            <li class="twitter">
+            <li class="twitter" style="padding-bottom:10px">
                 <a href="{{ site.twitter }}" class="fa fa-twitter"></a>
             </li>
         </ul>

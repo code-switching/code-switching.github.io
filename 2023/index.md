@@ -73,31 +73,32 @@ organizers:
 <hr class="custom-line">
 
 <p>
-Multilingual speakers will often mix languages when they communicate with other multilingual speakers in what is usually known as code-switching (CSW). 
-CSW is typically present on the intersentential, intrasentential and even morphological levels. 
-CSW presents serious challenges for language technologies such as Machine Translation (MT), Automatic Speech Recognition (ASR), language generation (LG), information retrieval (IR) and extraction (IE), and semantic processing. Traditional techniques trained for one language quickly break down when there is input mixed in from another. 
-Recent work has shown that even powerful multilingual models, such as multilingual BERT, yield subpar performance on CSW data (cf. Aguilar and Solorio, 2020).
+This edition will be the sixth edition of the workshop collocated with EMNLP 2023, marking a 10-year anniversary.
 </p>
 
 <p>
-Considering the ubiquitous nature of CSW in informal text communication such as newsgroups, tweets, blogs, and other social media, and the number of multilingual speakers worldwide that use these platforms, addressing the challenge of processing CSW data continues to be of great practical value. 
-This workshop aims to bring together researchers interested in technology for mixed language data, in either spoken or written form, and increase community awareness of the different efforts developed to date in this space.
+Bilingual and multilingual speakers often mix languages when they communicate with other multilingual speakers in what is usually known as code-switching (CS). CS can occur on various language levels including inter-sentential, intra-sentential, and even morphological. Practically, it presents long-standing challenges for language technologies, such as machine translation, ASR, language generation, information retrieval and extraction, and semantic processing. Models trained for one language can quickly break down when there is input mixed in from another. The recent breakthough on using multilingual pre-trained language models (LMs) have shown possibility to yield subpar performance on CS data.
+</p>
+
+<p>
+Considering the ubiquitous nature of CSW in informal text communication such as newsgroups, tweets, blogs, and other social media, and the number of multilingual speakers worldwide that use these platforms, addressing the challenge of processing CSW data continues to be of great practical value. This workshop aims to bring together researchers interested in technology for mixed language data, in either spoken or written form, and increase community awareness of the different efforts developed to date in this space.
 </p>
 
 <h2 class="subtitle" class="text-primary-red">Topics of Interest</h2>
 <hr class="custom-line">
 
 The workshop will invite contributions from researchers working in NLP and speech approaches for the analysis and processing of mixed-language data. Topics of relevance to the workshop will include the following: 
-1. Development of linguistic resources to support research on code-switched data; 
-2. NLP approaches for any of language identification/named entity recognition/sentiment analysis/machine translation/language generation in code-switched data; 
-3. NLP techniques for the syntactic analysis of code-switched data; 
-4. Domain/dialect/genre adaptation techniques applied to code-switched data processing; 
-5. Language modeling approaches to code-switched data processing; 
-6. Crowdsourcing approaches for the annotation of code-switched data; 
-7. Position papers discussing the challenges of code-switched data to NLP techniques; 
-8. Methods for improving ASR in code switched data; 
-9. Survey papers of NLP research for code-switched data; 
-10. Sociolinguistic and/or sociopragmatic aspects of code-switching.
+1. Development of resources (dataset/test bed/pre-trained language models) to support research on code-switched data; 
+2. New data augmentation techniques for improving robustness on code-switched data; 
+3. New approaches for NLP downstream tasks: language identification/named entity recognition/sentiment analysis/machine translation/language generation/ASR in code-switched data
+4. NLP techniques for the syntactic analysis of code-switched data;
+5. Domain/dialect/genre adaptation techniques applied to code-switched data processing;
+6. Language modeling approaches to code-switched data processing;
+7. Survey and position papers discussing the challenges of code-switched data to NLP techniques;
+8. Sociolinguistic and/or sociopragmatic aspects of
+code-switching;
+9. Ethical issues and consideration
+on code-switching applications.
 
 <h2 class="subtitle" id="important-dates"><a href="#important-dates" class="text-primary-red">Important Dates</a></h2>
 <hr class="custom-line">

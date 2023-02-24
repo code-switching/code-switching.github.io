@@ -1,0 +1,249 @@
+body {
+    margin-right: 17% !important;
+    margin-left: 17% !important;
+    background: antiquewhite !important;
+    font-family: 'Open Sans', 'sans-serif';
+}
+
+
+
+div.global-wrapper1{
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-bottom: 5%;
+    background-color: white;
+}
+
+.jumbotron {
+    padding: 2rem 2rem !important;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.person{
+    padding: 0.5rem 1rem;
+    border-radius: 0.3rem;
+    margin-bottom: 0.5rem;
+}
+.person:hover{
+    background-color: #eeeeee;
+}
+.person .name{
+    font-weight: bold;
+}
+
+.person-pc{
+    padding-left: 1rem;
+    border-radius: 0.3rem;
+}
+.person-pc:hover{
+    background-color: #eeeeee;
+}
+.person-pc .name{
+    font-weight: bold;
+}
+
+.image-caption{
+    text-align: right;
+}
+
+
+nav ul, footer ul {
+    font-family: 'Open Sans', 'sans-serif';
+    padding: inherit;
+    margin: 0%;
+    font-weight: bold;
+    /*text-align: center;*/
+}
+nav ul li, footer ul li, .nav-wrapper1 a {
+    display: inline;
+    padding-right: 1em;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-size: small;
+    /*margin-right: 20px;*/
+    color: #ff0000;
+}
+.page-title {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.subtitle {
+    margin-top: 40px;
+}
+
+hr.custom-line{
+    margin-bottom: 1.25rem !important;
+    margin-top: 0.1rem !important;
+}
+
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+
+
+.twitter{
+    float: right;
+    margin: 0px;
+}
+.twitter a{
+    font-size: 19px;
+    padding: 6px;
+    margin: 0px !important;
+    color: white;
+
+}
+
+
+
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  color: white;
+
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  border-radius: 4.3rem;
+}
+
+
+
+
+
+.image-container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.bottom-right {
+    padding: 5px;
+    position: absolute;
+    margin-bottom: 10px;
+    bottom: 5px;
+    right: 0px;
+    left: 10%;
+    background-color: antiquewhite;
+    color: black;
+    opacity: 0.85;
+    text-align: right;
+}
+
+
+
+
+.update {
+    margin-left: -72px !important;
+    padding-left: 72px;
+    background: url(update.png) top left no-repeat;
+}
+
+.new {
+    margin-left: -48px !important;
+    padding-left: 48px;
+    background: url(new.png) top left no-repeat;
+}
+
+
+.leaderboard{
+    vertical-align: top;
+    width: 45% !important;
+    display: inline-block;
+}
+
+/* Dropdown Button */
+.dropbtn 
+{
+/* background-color: #4CAF50; */
+
+/* padding: 16px; */
+background-color: #fff;
+color:red; 
+font-weight: bold;
+/* font-size: 16px; */
+border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+/* position: relative; */
+display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+display: none;
+position: absolute;
+background-color: #f1f1f1;
+min-width: 70px;
+/* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); */
+z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+color: black;
+/* padding: 12px 16px; */
+text-decoration: none;
+display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {color: blue;}
+
+
+.text-primary-red {
+    color: #d9230f!important;   
+}
+
+table {
+    border-collapse: collapse;
+}
+
+caption {
+    font-size: larger;
+    margin: 1em auto;
+}
+
+th,td {
+    padding: .65em;
+}
+
+th {
+    background:navajowhite;
+    /* border: 1px solid #777; */
+    /* color: #fff; */
+}
+
+td {
+    border: 1px solid#777;
+}
