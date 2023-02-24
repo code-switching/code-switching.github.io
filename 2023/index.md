@@ -17,6 +17,7 @@ organizers:
       fields:
         - Senior Research Scientist
         - Bloomberg LP
+        - United States
     - name: Sudipta Kar (contact person)
       link: https://sudiptakar.info/
       email: sudipta.kar.8080@gmail.com
@@ -24,6 +25,7 @@ organizers:
       fields:
         - Applied Scientist
         - Amazon Alexa AI
+        - United States
     - name: Marina Zhukova (contact person)
       link: https://sites.google.com/view/marinazhukova/
       email: mzhukova@ucsb.edu
@@ -54,21 +56,24 @@ organizers:
       photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/organizers/sunayana.jpg
       fields:
         - Senior Researcher
-        - MSR India
+        - MSR 
+        - India
     - name: Monojit Choudhury
       link: https://www.microsoft.com/en-us/research/people/monojitc/
       email: monojitc@microsoft.com
       photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/organizers/monojit.jpg
       fields:
         - Principal Data and Applied Scientist
-        - Microsoft Turing India
+        - Microsoft Turing
+        - India
     - name: Kalika Bali
       link: https://www.microsoft.com/en-us/research/people/kalikab/
       email: kalikab@microsoft.com
       photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/organizers/kalika.jpg
       fields:
         - Principal Researcher
-        - Microsoft Research India
+        - Microsoft Research
+        - India
 ---
 
 <h2 class="subtitle" id="call-for-papers"><a href="#call-for-papers" class="text-primary-red">First Call for Papers</a></h2>
@@ -105,10 +110,10 @@ on code-switching applications.
 <h2 class="subtitle" id="important-dates"><a href="#important-dates" class="text-primary-red">Important Dates</a></h2>
 <hr class="custom-line">
 
-- Workshop submission deadline (long, short and special track): TBD
-- Notification of acceptance: TBD
-- Camera ready papers due: TBD
-- Workshop date: TBD
+- Workshop submission deadline (long, short and special track): 7 September 2023 (Tentative)
+- Notification of acceptance: 9 October 2023 (Tentative)
+- Camera ready papers due: 16 October 2023 (Tentative)
+- Workshop date: November / December 2023 (Tentative)
 
 **All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").**
 
