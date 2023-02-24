@@ -17,7 +17,7 @@ organizers:
       fields:
         - Senior Research Scientist
         - Bloomberg LP
-        - United States
+        - USA
     - name: Sudipta Kar (contact person)
       link: https://sudiptakar.info/
       email: sudipta.kar.8080@gmail.com
@@ -25,31 +25,31 @@ organizers:
       fields:
         - Applied Scientist
         - Amazon Alexa AI
-        - United States
+        - USA
     - name: Marina Zhukova (contact person)
       link: https://sites.google.com/view/marinazhukova/
       email: mzhukova@ucsb.edu
       photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/organizers/marina.jpg
       fields:
         - Ph.D. Student 
-        - Department of Linguistics
-        - University of California, Santa Barbara
+        - Department of Linguistics, University of California, Santa Barbara
+        - USA
     - name: Thamar Solorio
       link: http://solorio.uh.edu/
       email: solorio@uh.edu
       photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/organizers/thamar.jpg
       fields:
         - Professor
-        - Department of Computer Science
-        - University of Houston
+        - Department of Computer Science, University of Houston
+        - USA
     - name: Mona Diab
       link: https://web.seas.gwu.edu/mtdiab/
       email: mtdiab@gwu.edu
       photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/organizers/mona.jpg
       fields:
         - Research Scientist, Facebook AI
-        - Professor, Department of Computer Science
-        - George Washington University
+        - Professor, Department of Computer Science, George Washington University
+        - USA
     - name: Sunayana Sitaram
       link: https://www.cs.cmu.edu/~ssitaram/
       email: sunayana.sitaram@microsoft.com
