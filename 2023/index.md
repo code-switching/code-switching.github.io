@@ -190,7 +190,7 @@ The submission portal is open on <a href="https://openreview.net/group?id=EMNLP/
         {% for person in page.organizers %}
         <div class="person">
             <img src="{{person.photo}}" style="border-radius: 50%;float:left;padding:10px;margin-right:5px" width="115px">
-            <div><a href="{{person.link}}" class="text-primary-red name">{{person.name}}</a></div>
+            <div><a href="{{person.link}}" class="name">{{person.name}},{{person.affliation}}</a></div>
             {% for field in person.fields %}
                 <div>{{ field }}</div>
             {% endfor %}
