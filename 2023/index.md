@@ -176,4 +176,5 @@ The submission portal is open on <a href="https://openreview.net/group?id=EMNLP/
 
 <h2 class="subtitle" class="text-primary-red">Sponsors</h2>
 <hr class="custom-line">
-TBA
+
+<a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/"><img src="/assets/bloomberg.png" width="250"></a>
