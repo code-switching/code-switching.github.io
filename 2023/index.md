@@ -9,6 +9,33 @@ navbar:
       link: /2023#call-for-papers
     - name: Organizers
       link: /2023#organizers-id
+program_committee:
+    - name: Suraj Maharjan
+      affliation: Amazon
+    - name: Gustavo Aguilar
+      affliation: Amazon
+    - name: Shuguang Chen
+      affliation: University of Houston
+    - name: Yihong Theis
+      affliation: Kansas State University
+    - name: Els Lefever
+      affliation: Ghent University
+    - name: Parth Patwa
+      affliation: Amazon
+    - name: Abhinav Arora
+      affliation: Meta
+    - name: Indranil Dutta
+      affliation: Jadavpur University
+    - name: Elena Álvarez-Mellado
+      affliation: Universidad Nacional de Educación a Distancia
+    - name: Manuel Mager
+      affliation: Amazon
+    - name: Amitava Das
+      affliation: University of of South Carolina
+    - name: A. Seza Doğruöz
+      affliation: Ghent University
+    - name: Segun Aroyehun
+      affliation: Technische Universität Graz
 organizers:
     - name: Genta Indra Winata (contact person)
       link: https://gentawinata.com
@@ -140,6 +167,7 @@ The submission portal is open on <a href="https://openreview.net/group?id=EMNLP/
         {% endfor %}
     </div>
 </div>
+-->
 
 <div class="program-committee">
     <h2 class="subtitle" id="program-committee-id"><a href="#program-committee-id" class="text-primary-red">Program Committee</a></h2>
@@ -153,7 +181,7 @@ The submission portal is open on <a href="https://openreview.net/group?id=EMNLP/
         </div>
         {% endfor %}
     </div>
-</div> -->
+</div>
 
 <div class="organizer-committee">
     <h2 class="subtitle text-primary-red" id="organizers-id"><a href="#organizers-id" class="text-primary-red">Organizers</a></h2>
@@ -175,4 +203,4 @@ The submission portal is open on <a href="https://openreview.net/group?id=EMNLP/
 <h2 class="subtitle" class="text-primary-red">Sponsors</h2>
 <hr class="custom-line">
 
-<a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/"><img src="https://github.com/code-switching/code-switching.github.io/blob/master/2023/assets/bloomberg.png" width="250"></a>
+<a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/"><img src="https://raw.githubusercontent.com/code-switching/code-switching.github.io/master/2023/assets/bloomberg.png" width="250"></a>
