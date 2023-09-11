@@ -149,7 +149,7 @@ The submission portal is open on <a href="https://openreview.net/group?id=EMNLP/
 <h2 class="subtitle" id="important-dates"><a href="#important-dates" class="text-primary-red">Important Dates</a></h2>
 <hr class="custom-line">
 
-- Workshop submission deadline (regular and non-archival submissions): 12 September 2023 (UTC-0)
+- Workshop submission deadline (regular and non-archival submissions): 11 September 2023 23:59 (UTC-0)
 - Notification of acceptance: 10 October 2023 (AoE)
 - Camera ready papers due: 18 October 2023 (AoE)
 - Workshop date: 7 December 2023 (AoE)
