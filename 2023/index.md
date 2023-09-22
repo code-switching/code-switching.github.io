@@ -36,6 +36,10 @@ program_committee:
       affliation: Ghent University
     - name: Segun Aroyehun
       affliation: Technische Universität Graz
+    - name: Tanya Roosta
+      affliation: Amazon
+    - name: Kellen Gillespie
+      affliation: Amazon
 organizers:
     - name: Genta Indra Winata (contact person)
       link: https://gentawinata.com
