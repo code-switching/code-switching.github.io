@@ -146,6 +146,22 @@ The workshop accepts three categories of papers: <b>regular workshop papers, non
 <hr class="custom-line">
 TBA -->
 
+<h2 class="subtitle" id="accepted-papers"><a href="#accepted-papers" class="text-primary-red">Accepted Papers</a></h2>
+<hr class="custom-line">
+
+- TongueSwitcher: Fine-Grained Identification of German-English Code-Switching
+- Towards Real-World Streaming Speech Translation for Code-Switched Speech
+- Language Preference for Expression of Sentiment for Nepali-English Bilingual Speakers on Social Media
+- Text-Derived Language Identity Incorporation for End-to-End Code-Switching Speech Recognition
+- Prompting Multilingual Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages
+- CONFLATOR: Incorporating Switching Point based Rotatory Positional Encodings for Code-Mixed Language Modeling
+- Unified Model for Code-Switching Speech Recognition and Language Identification Based on Concatenated Tokenizer
+- Multilingual self-supervised speech representations improve the speech recognition of low-resource African languages with codeswitching
+
+<h2 class="subtitle" id="non-archival"><a href="#non-archival" class="text-primary-red">Non archival</a></h2>
+<hr class="custom-line">
+- Code-switching tokens: Comparing Intonation Units with words
+
 <h2 class="subtitle" id="submission"><a href="#submission" class="text-primary-red">Important Dates</a></h2>
 <hr class="custom-line">
 The submission portal is open on <a href="https://openreview.net/group?id=EMNLP/2023/Workshop/CALCS">OpenReview</a>.
