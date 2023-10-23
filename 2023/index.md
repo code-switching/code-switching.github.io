@@ -146,7 +146,7 @@ The workshop accepts three categories of papers: <b>regular workshop papers, non
 <hr class="custom-line">
 TBA -->
 
-<!-- <h2 class="subtitle" id="accepted-papers"><a href="#accepted-papers" class="text-primary-red">Accepted Papers</a></h2>
+<h2 class="subtitle" id="accepted-papers"><a href="#accepted-papers" class="text-primary-red">Accepted Papers</a></h2>
 <hr class="custom-line">
 
 - TongueSwitcher: Fine-Grained Identification of German-English Code-Switching
@@ -160,7 +160,7 @@ TBA -->
 
 <h2 class="subtitle" id="non-archival"><a href="#non-archival" class="text-primary-red">Non archival</a></h2>
 <hr class="custom-line">
-- Code-switching tokens: Comparing Intonation Units with words -->
+- Code-switching tokens: Comparing Intonation Units with words
 
 <h2 class="subtitle" id="submission"><a href="#submission" class="text-primary-red">Important Dates</a></h2>
 <hr class="custom-line">
