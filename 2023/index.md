@@ -78,8 +78,8 @@ organizers:
       email: mtdiab@gwu.edu
       photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/organizers/mona.jpg
       fields:
-        - Research Scientist, Facebook AI
-        - Professor, Department of Computer Science, George Washington University
+        - Professor
+        - Carnegie Mellon University
         - USA
     - name: Sunayana Sitaram
       link: https://www.cs.cmu.edu/~ssitaram/
