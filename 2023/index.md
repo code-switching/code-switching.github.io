@@ -78,8 +78,8 @@ organizers:
       email: mtdiab@gwu.edu
       photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/organizers/mona.jpg
       fields:
-        - Professor
-        - Carnegie Mellon University
+        - Professor and Director's
+        - Language Technology Institute, Carnegie Mellon University
         - USA
     - name: Sunayana Sitaram
       link: https://www.cs.cmu.edu/~ssitaram/
