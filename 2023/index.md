@@ -232,18 +232,23 @@ TBA -->
               <td><strong>Poster Session</strong></td>
             </tr>
             <tr>
+              <td valign="top"></td>
               <td><em><font color="red">IndiSocialFT: Multilingual Word Representation for Indian languages in code-mixed environment</font></em> <br /> Saurabh Kumar, Ranbir Singh Sanasam, Sukumar Nandi</td>
             </tr>
             <tr>
+              <td valign="top"></td>
               <td><em><font color="red">Code-Switching with Word Senses for Pretraining in Neural Machine Translation </font></em> <br /> Vivek Iyer, Edoardo Barba, Alexandra Birch, Jeff Z. Pan, Roberto Navigli </td>
             </tr>
             <tr>
+              <td valign="top"></td>
               <td><em><font color="red">Representativeness as a Forgotten Lesson for Multilingual and Code-switched Data Collection and Preparation </font></em> <br /> A. Seza Doğruöz, Sunayana Sitaram, Zheng Xin Yong   </td>
             </tr>
             <tr>
+              <td valign="top"></td>
               <td><em><font color="red">Late Fusion of Transformers for Sentiment Analysis of Code-Switched Data </font></em> <br /> Gagan Sharma, R Chinmay,  Raksha Sharma</td>
             </tr>
             <tr>
+              <td valign="top"></td>
               <td><em><font color="red">New Datasets and Controllable Iterative Data Augmentation Method for Code-switching ASR Error Correction </font></em> <br />Zhaohong Wan, Xiaojun Wan, Wei Peng, Rongjun L</td>
             </tr>
             <tr>
