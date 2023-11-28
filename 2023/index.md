@@ -10,36 +10,51 @@ navbar:
     - name: Organizers
       link: /2023#organizers-id
 program_committee:
-    - name: Suraj Maharjan
-      affliation: Amazon
-    - name: Gustavo Aguilar
-      affliation: Amazon
-    - name: Shuguang Chen
-      affliation: University of Houston
-    - name: Yihong Theis
-      affliation: Kansas State University
-    - name: Els Lefever
-      affliation: Ghent University
-    - name: Parth Patwa
-      affliation: Amazon
-    - name: Abhinav Arora
-      affliation: Meta
-    - name: Indranil Dutta
-      affliation: Jadavpur University
-    - name: Elena Álvarez-Mellado
-      affliation: Universidad Nacional de Educación a Distancia
-    - name: Manuel Mager
-      affliation: Amazon
-    - name: Amitava Das
-      affliation: University of of South Carolina
+
     - name: A. Seza Doğruöz
       affliation: Ghent University
-    - name: Segun Aroyehun
-      affliation: Technische Universität Graz
-    - name: Tanya Roosta
+    - name: Abhinav Arora
+      affliation: Meta
+    - name: Dama Sravani
+      affliation: Goldman Sachs
+    - name: David Vilares
+      affliation: University of A Coruña, Spain. 
+    - name: Elena Álvarez-Mellado
+      affliation: Universidad Nacional de Educación a Distancia
+    - name: Els Lefever
+      affliation: Ghent University
+    - name: Holy Lovenia
+      affliation: AI Singapore
+    - name: François Yvon
+      affliation: ISIR / CNRS et Sorbonne Université
+    - name: Ganesh Jawahar
+      affliation: University of British Columbia
+    - name: Gustavo Aguilar
       affliation: Amazon
     - name: Kellen Gillespie
       affliation: Amazon
+    - name: Manuel Mager
+      affliation: Amazon
+    - name: Parth Patwa
+      affliation: Amazon
+    - name: Salim Sazzed
+      affliation: The University of Memphis
+    - name: Segun Aroyehun
+      affliation: Technische Universität Graz
+    - name: Shuguang Chen
+      affliation: University of Houston
+    - name: Suman Dowlagar
+      affliation: IIIT Hyderabad
+    - name: Suraj Maharjan
+      affliation: Amazon
+    - name: Tanya Roosta
+      affliation: Amazon
+    - name: Vivek Srivastava
+      affliation: TCS Research, Pune, India
+    - name: Xingzhi Guo
+      affliation: Amazon
+    - name: Yihong Theis
+      affliation: Kansas State University
 organizers:
     - name: Genta Indra Winata (contact person)
       link: https://gentawinata.com
