@@ -191,7 +191,7 @@ TBA -->
             </tr>
             <tr>
               <td valign="top">09:10 - 10:25</td>
-              <td><em>Morning Session I</em>
+              <td><strong><em>Morning Session I</em></strong>
                 </td>
             </tr>
             <tr>
