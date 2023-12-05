@@ -200,7 +200,7 @@ TBA -->
             </tr>
             <tr>
               <td valign="top">09:25 - 09:40</td>
-              <td><em><font color="red">Text-Derived Language Identity Incorporation for End-to-End Code-Switching Speech Recognition</font></em>  <br /> Qinyi Wang, Haizhou Li</td>
+              <td><em><font color="red">Invited Talk: Text-Derived Language Identity Incorporation for End-to-End Code-Switching Speech Recognition</font></em>  <br /> Qinyi Wang, Haizhou Li</td>
             </tr>
             <tr>
               <td valign="top">09:40 - 09:55</td>
