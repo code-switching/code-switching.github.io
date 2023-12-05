@@ -190,7 +190,7 @@ TBA -->
               <td><em>Welcome Remarks</em> <br /> Thamar Solorio, Sudipta Kar, Marina Zhukova</td>
             </tr>
             <tr>
-              <td valign="top">09:10 - 10:35</td>
+              <td valign="top">09:10 - 10:25</td>
               <td><em>Morning Session I</em>
                 </td>
             </tr>
@@ -215,7 +215,7 @@ TBA -->
               <td><em><font color="red">Prompting Multilingual Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages</font></em> <br />Zheng Xin Yong, Ruochen Zhang, Jessica Forde, Skyler Wang, Arjun Subramonian, Samuel Cahyawijaya, Holy Lovenia, Genta Winata, Lintang Sutawika, Jan Christian Blaise Cruz, Yin Lin Tan, Long Phan, Rowena Garcia, Thamar Solorio, Alham Aji</td>
             </tr>
             <tr>
-              <td valign="top"><strong>10:35 - 11:00</strong></td>
+              <td valign="top"><strong>10:25 - 11:00</strong></td>
               <td><strong><em>Coffee Break</em></strong></td>
             </tr>
             <tr>
