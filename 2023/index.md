@@ -186,37 +186,33 @@ TBA -->
           </thead>
           <tbody>
             <tr>
-              <td valign="top">09:00 - 09:05</td>
-              <td><em>Welcome Remarks</em> <br /> Thamar Solorio</td>
+              <td valign="top">09:00 - 09:10</td>
+              <td><em>Welcome Remarks</em> <br /> Thamar Solorio, Sudipta Kar, Marina Zhukova</td>
             </tr>
             <tr>
-              <td valign="top">09:05 - 10:35</td>
+              <td valign="top">09:10 - 10:35</td>
               <td><em>Morning Session I</em>
                 </td>
             </tr>
             <tr>
-              <td valign="top">09:05 - 09:20</td>
+              <td valign="top">09:10 - 09:25</td>
               <td><em><font color="red">Towards Real-World Streaming Speech Translation for Code-Switched Speech</font></em> <br /> Belen Alastruey, Matthias Sperber, Christian Gollan, Dominic C Telaar, Tim Ng, Aashish Agarwal</td>
             </tr>
             <tr>
-              <td valign="top">09:20 - 09:35</td>
+              <td valign="top">09:25 - 09:40</td>
               <td><em><font color="red">Text-Derived Language Identity Incorporation for End-to-End Code-Switching Speech Recognition</font></em>  <br /> Qinyi Wang, Haizhou Li</td>
             </tr>
             <tr>
-              <td valign="top">09:35 - 09:50</td>
+              <td valign="top">09:40 - 09:55</td>
               <td><em><font color="red">TongueSwitcher: Fine-Grained Identification of German-English Code-Switching</font></em> <br />Igor Sterner, Simone Teufel</td>
             </tr>
             <tr>
-              <td valign="top">09:50 - 10:05</td>
+              <td valign="top">09:55 - 10:10</td>
               <td><em><font color="red">CONFLATOR: Incorporating Switching Point based Rotatory Positional Encodings for Code-Mixed Language Modeling</font></em> <br />Mohsin Ali Mohammed, Sai Teja Kandukuri, Neeharika Gupta, Parth Patwa, Anubhab Chatterjee, Vinija Jain, Aman Chadha, Amitava Das</td>
             </tr>
             <tr>
-              <td valign="top">10:05 - 10:20</td>
+              <td valign="top">10:10 - 10:25</td>
               <td><em><font color="red">Prompting Multilingual Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages</font></em> <br />Zheng Xin Yong, Ruochen Zhang, Jessica Forde, Skyler Wang, Arjun Subramonian, Samuel Cahyawijaya, Holy Lovenia, Genta Winata, Lintang Sutawika, Jan Christian Blaise Cruz, Yin Lin Tan, Long Phan, Rowena Garcia, Thamar Solorio, Alham Aji</td>
-            </tr>
-            <tr>
-              <td valign="top">10:20 - 10:35</td>
-              <td><em><font color="red">Multilingual self-supervised speech representations improve the speech recognition of low-resource African languages with codeswitching</font></em> <br />Tolulope Ogunremi, Christopher Manning, Dan Jurafsky</td>
             </tr>
             <tr>
               <td valign="top"><strong>10:35 - 11:00</strong></td>
@@ -231,8 +227,16 @@ TBA -->
               <td><em>Invited Talk: Resource-efficient Computational Models for Code-switched Speech and Text</em> <br /> Preethi Jyothi</td>
             </tr>
             <tr>
-              <td valign="top">11:00 - 11:45</td>
-              <td><em>Panel Discussion: Code-Switching and LLMs</em> <br /> Sudipta Kar, Genta Winata, Marina Zhukova</td>
+              <td valign="top">11:45 - 12:00</td>
+              <td><em><font color="red">Multilingual self-supervised speech representations improve the speech recognition of low-resource African languages with codeswitching</font></em> <br />Tolulope Ogunremi, Christopher Manning, Dan Jurafsky</td>
+            </tr>
+            <tr>
+              <td valign="top">12:00 - 12:15</td>
+              <td><em><font color="red">Language Preference for Expression of Sentiment for Nepali-English Bilingual Speakers on Social Media </font></em>  <br /> Niraj Pahari, Kazutaka Shimada</td>
+            </tr>
+            <tr>
+              <td valign="top">12:15 - 12:30</td>
+              <td><em><font color="red">Code-Switching with Word Senses for Pretraining in Neural Machine Translation </font></em>  <br /> Vivek Iyer, Edoardo Barba, Alexandra Birch, Jeff Z. Pan, Roberto Navigli </td>
             </tr>
             <tr>
               <td valign="top"><strong>12:30 - 14:00</strong></td>
@@ -243,28 +247,12 @@ TBA -->
               <td><strong>Afternoon Session I</strong></td>
             </tr>
             <tr>
-              <td valign="top"><strong>14:00 - 15:30</strong></td>
-              <td><strong>Poster Session</strong></td>
+              <td valign="top">14:00 - 14:15</td>
+              <td><em><font color="red">Unified Model for Code-Switching Speech Recognition and Language Identification Based on Concatenated Tokenizer</font></em> <br />Kunal Dhawan, Dima Rekesh, Boris Ginsburg</td>
             </tr>
             <tr>
-              <td valign="top"></td>
-              <td><em><font color="red">IndiSocialFT: Multilingual Word Representation for Indian languages in code-mixed environment</font></em> <br /> Saurabh Kumar, Ranbir Singh Sanasam, Sukumar Nandi</td>
-            </tr>
-            <tr>
-              <td valign="top"></td>
-              <td><em><font color="red">Code-Switching with Word Senses for Pretraining in Neural Machine Translation </font></em> <br /> Vivek Iyer, Edoardo Barba, Alexandra Birch, Jeff Z. Pan, Roberto Navigli </td>
-            </tr>
-            <tr>
-              <td valign="top"></td>
-              <td><em><font color="red">Representativeness as a Forgotten Lesson for Multilingual and Code-switched Data Collection and Preparation </font></em> <br /> A. Seza Doğruöz, Sunayana Sitaram, Zheng Xin Yong   </td>
-            </tr>
-            <tr>
-              <td valign="top"></td>
-              <td><em><font color="red">Late Fusion of Transformers for Sentiment Analysis of Code-Switched Data </font></em> <br /> Gagan Sharma, R Chinmay,  Raksha Sharma</td>
-            </tr>
-            <tr>
-              <td valign="top"></td>
-              <td><em><font color="red">New Datasets and Controllable Iterative Data Augmentation Method for Code-switching ASR Error Correction </font></em> <br />Zhaohong Wan, Xiaojun Wan, Wei Peng, Rongjun L</td>
+              <td valign="top">14:15 - 15:30</td>
+              <td><em>Panel Discussion: Code-Switching and LLMs</em> <br /> Sudipta Kar, Genta Winata, Marina Zhukova</td>
             </tr>
             <tr>
               <td valign="top"><strong>15:30 - 16:00</strong></td>
@@ -272,22 +260,18 @@ TBA -->
             </tr>
             <tr>
               <td valign="top"><strong>16:00 - 16:45</strong></td>
+              <td><strong>Afternoon Session II</strong></td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>16:00 - 16:45</strong></td>
               <td><em>Modeling Code-Switch Languages Using Bilingual Parallel Corpus</em> <br /> Haizhou Li</td>
             </tr>
             <tr>
-              <td valign="top">16:45 - 17:00</td>
-              <td><em><font color="red">Language Preference for Expression of Sentiment for Nepali-English Bilingual Speakers on Social Media </font></em>  <br /> Niraj Pahari, Kazutaka Shimada</td>
-            </tr>
-            <tr>
-              <td valign="top">17:00 - 17:15</td>
-              <td><em><font color="red">Unified Model for Code-Switching Speech Recognition and Language Identification Based on Concatenated Tokenizer</font></em> <br />Kunal Dhawan, Dima Rekesh, Boris Ginsburg</td>
-            </tr>
-            <tr>
-              <td valign="top"><strong>17:15 - 17:20</strong></td>
+              <td valign="top"><strong>16:45 - 16:50</strong></td>
               <td><strong><em>Best Paper Awards</em></strong><br /> Genta Indra Winata</td>
             </tr>
             <tr>
-              <td valign="top"><strong>17:20 - 17:30</strong></td>
+              <td valign="top"><strong>16:50 - 16:55</strong></td>
               <td><strong><em>Closing Remarks</em></strong><br /> Sudipta Kar</td>
             </tr>
           </tbody>
