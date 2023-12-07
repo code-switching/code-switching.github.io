@@ -200,7 +200,7 @@ TBA -->
             </tr>
             <tr>
               <td valign="top">09:25 - 09:40</td>
-              <td><em><font color="red">Invited Talk: Text-Derived Language Identity Incorporation for End-to-End Code-Switching Speech Recognition</font></em>  <br /> Qinyi Wang, Haizhou Li</td>
+              <td><em><font color="red">Text-Derived Language Identity Incorporation for End-to-End Code-Switching Speech Recognition</font></em>  <br /> Qinyi Wang, Haizhou Li</td>
             </tr>
             <tr>
               <td valign="top">09:40 - 09:55</td>
@@ -264,7 +264,7 @@ TBA -->
             </tr>
             <tr>
               <td valign="top"><strong>16:00 - 16:45</strong></td>
-              <td><em>Modeling Code-Switch Languages Using Bilingual Parallel Corpus</em> <br /> Haizhou Li</td>
+              <td><em>Invited Talk: Modeling Code-Switch Languages Using Bilingual Parallel Corpus</em> <br /> Haizhou Li</td>
             </tr>
             <tr>
               <td valign="top"><strong>16:45 - 16:50</strong></td>
