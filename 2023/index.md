@@ -252,7 +252,7 @@ TBA -->
             </tr>
             <tr>
               <td valign="top">14:15 - 15:30</td>
-              <td><em>Panel Discussion: Code-Switching and LLMs</em> <br /> Sudipta Kar, Genta Winata, Marina Zhukova</td>
+              <td><em>Panel Discussion: Code-Switching and LLMs</em> <br /> Monojit Choudhury, Sudipta Kar, Genta Winata, Sunayana Sitaram, Marina Zhukova</td>
             </tr>
             <tr>
               <td valign="top"><strong>15:30 - 16:00</strong></td>
