@@ -56,64 +56,45 @@ program_committee:
     - name: Yerbolat Kassanov
       affliation: ByteDance
 organizers:
-    - name: Genta Indra Winata (contact person)
+    - name: Genta Indra Winata
       email: genta.winata@capitalone.com
       fields:
-        - Senior Applied Scientist
-        - Capital One AI
-Foundations
-        - USA
-    - name: Sudipta Kar (contact person)
+        - Senior Applied Scientist, Capital One AI
+Foundations, USA
+    - name: Sudipta Kar 
       email: sudipta.kar.8080@gmail.com
       fields:
-        - Senior Applied Scientist
-        - Amazon Alexa AI
-        - USA
-    - name: Marina Zhukova (contact person)
+        - Senior Applied Scientist, Amazon Alexa AI, USA
+    - name: Marina Zhukova
       email: mzhukova@ucsb.edu
       fields:
-        - Ph.D. Candidate
-        - Department of Linguistics, University of California, Santa Barbara
-        - USA
-    - name: Injy Hamed (contact person)
+        - Ph.D. Candidate, Department of Linguistics, University of California, Santa Barbara, USA
+    - name: Injy Hamed
       email: injy.hamed@mbzuai.ac.ae
       fields:
-        - Postdoctoral Associat
-        - MBZUAI
-        - UAE
-    - name: Garry Kuwanto (contact person)
+        - Postdoctoral Associate, MBZUAI, UAE
+    - name: Garry Kuwanto
       email: gkuwanto@bu.edu
       fields:
-        - Ph.D. Student
-        - Boston University
-        - USA
-    - name: Mahardika Krisna Ihsani (contact person)
+        - Ph.D. Student, Boston University, USA
+    - name: Mahardika Krisna Ihsani
       email: mahardika.ihsani@mbzuai.ac.ae
       fields:
-        - M.Sc. Student
-        - MBZUAI
-        - UAE
-    - name: Barid Xi Ai (contact person)
+        - M.Sc. Candidate, MBZUAI, UAE
+    - name: Barid Xi Ai
       email: barid.x.ai@gmail.com
       fields:
-        - Postdoctoral Researche
-        - NUS
-        - Singapore
-    - name: Derry Tanti Wijaya (contact person)
+        - Postdoctoral Researcher, NUS, Singapore
+    - name: Derry Tanti Wijaya
       email: derry.wijaya@monash.edu
       fields:
-        - Associate Professor
-        - Monash University Indonesia
-        - Indonesia
-        - Adjunct
-        - Boston University
-        - USA
+        - Associate Professor, Monash University Indonesia, Indonesia
+        - Adjunct Faculty, Boston University, USA
     - name: Thamar Solorio
       email: thamar.solorio@mbzuai.ac.ae
       fields:
-        - Professor
-        - MBZUAI and University of Houston
-        - UAE and USA
+        - Professor, MBZUAI, UAE
+        - Professor, University of Houston, USA
 ---
 
 <h2 class="subtitle" id="call-for-papers"><a href="#call-for-papers" class="text-primary-red">First Call for Papers</a></h2>
@@ -192,8 +173,7 @@ To enrich the CS community and enhance language inclusivity, we plan to organize
     <div>
         {% for person in page.organizers %}
         <div class="person">
-            <img src="{{person.photo}}" style="border-radius: 50%;float:left;padding:10px;margin-right:5px" width="115px">
-            <div><a href="{{person.link}}" class="name">{{person.name}},{{person.affliation}}</a></div>
+            <div>{{person.name}},{{person.affliation}}</div>
             {% for field in person.fields %}
                 <div>{{ field }}</div>
             {% endfor %}
