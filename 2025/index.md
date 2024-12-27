@@ -1,14 +1,16 @@
 ---
 layout: default
-permalink: /2024
-cover_image: https://cdn.britannica.com/55/190455-050-E617F64E/Night-view-Singapore.jpg
-cover_image_caption: New Mexico, USA
-cover_banner: Computational Approaches to Linguistic Code-Switching, CALCS 2024
+permalink: /2025
+cover_image: https://cdn.britannica.com/76/125476-159-86CE23EF/Balloons-Rio-Grande-New-Mexico-Albuquerque-International.jpg
+cover_image_caption: Albuquerque, New Mexico, USA
+cover_banner: Computational Approaches to Linguistic Code-Switching, CALCS 2025
 navbar:
     - name: Calls
-      link: /2024#call-for-papers
+      link: /2025#call-for-papers
+    - name: Shared Task
+      link: /2025#shared-task
     - name: Organizers
-      link: /2024#organizers-id
+      link: /2025#organizers-id
 program_committee:
 
     - name: Ana Valeria González
@@ -59,8 +61,7 @@ organizers:
     - name: Genta Indra Winata
       email: genta.winata@capitalone.com
       fields:
-        - Senior Applied Scientist, Capital One AI
-Foundations, USA
+        - Senior Applied Scientist, Capital One AI Foundations, USA
     - name: Sudipta Kar 
       email: sudipta.kar.8080@gmail.com
       fields:
@@ -114,7 +115,7 @@ As CS becomes more common in informal communication like newsgroups, tweets, and
 
 <h2 class="subtitle" class="text-primary-red">Topics of Interest</h2>
 <hr class="custom-line">
-he workshop will invite contributions from researchers working in NLP and speech approaches for the analysis and processing of mixed-language data. Topics of relevance to the workshop include the following:
+The workshop will invite contributions from researchers working in NLP and speech approaches for the analysis and processing of mixed-language data. Topics of relevance to the workshop include the following:
 1.  Development of data and model resources to support research on CS data
 2.  New data augmentation techniques for improving robustness on CS data
 3.  New approaches for NLP downstream tasks: question answering, conversational agents, named entity recognition, sentiment analysis, machine translation, language generation, and ASR in CS data
@@ -161,7 +162,7 @@ To enrich the CS community and enhance language inclusivity, we plan to organize
         <div class="person-pc">
             <span class="text-primary-red name">{{person.name}}</span>
             <span>&nbsp;&nbsp;</span>
-            <span>{{person.affiliation}}</span>
+            <span>{{person.affliation}}</span>
         </div>
         {% endfor %}
     </div>
