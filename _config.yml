@@ -31,3 +31,9 @@ workshops:
   - year: 2021
     name: CALCS 2021
     venue: TBD
+  - year: 2023
+    name: CALCS 2023
+    venue: EMNLP (Singapore)
+  - year: 2025
+    name: CALCS 2025
+    venue: NAACL (New Mexico, USA)
