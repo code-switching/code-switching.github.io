@@ -139,6 +139,18 @@ The workshop accepts three categories of papers: <b>regular workshop papers, non
 To enrich the CS community and enhance language inclusivity, we plan to organize a shared-task competition focused on automatically evaluating synthetically generated CS text. Automatic CS text generation is valuable for various tasks, especially given the scarcity of such data. Data augmentation has been effective in improving model performance across tasks and languages. The need for CS text in dialogue systems highlights the benefits of enabling chatbots to produce CS sentences. As the demand for generating CS text increases, robust evaluation methods are essential to assess accuracy and fluency. This area still lacks sufficient research in data and methodologies. Our shared task aims to enable further progress in this field.
 </p>
 
+<h2 class="subtitle" id="submission"><a href="#submission" class="text-primary-red">Important Dates</a></h2>
+<hr class="custom-line">
+The submission portal is open on <a href="**https://openreview.net/group?id=NAACL/2025/Workshop/CALCS">OpenReview</a>.
+
+<h2 class="subtitle" id="important-dates"><a href="#important-dates" class="text-primary-red">Important Dates</a></h2>
+<hr class="custom-line">
+- Workshop submission deadline (regular and non-archival submissions): 7 February 2025
+- Notification of acceptance: 8 March 2025
+- Camera ready papers due: 17 March 2025
+- Workshop date: 3/4 May 2025
+All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
+
 <!-- <div class="invited-speakers">
     <h2 class="subtitle" id="invited-speakers-id"><a href="#invited-speakers-id" class="text-primary-red">Invited Speakers</a></h2>
     <hr class="custom-line">
