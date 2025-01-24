@@ -133,12 +133,64 @@ The workshop will invite contributions from researchers working in NLP and speec
 The workshop accepts three categories of papers: <b>regular workshop papers, non-archival and cross-submissions</b>. Only regular workshop papers will be included in the proceedings as archival publications. The regular workshop papers are eligible for <b>the best paper award</b>. All three categories of papers may be long (maximum 8 pages plus references) or short (maximum 4 pages plus references), with unlimited additional pages for references, following the <a href="https://aclrollingreview.org/cfp#paper-submission-information">ARR formatting requirements</a>. The reported research should be substantially original. Accepted papers will be presented as posters and orals. Reviewing will be double-blind, and thus, no author information should be included in the papers; self-reference that identifies the authors should be avoided or anonymized. Accepted regular workshop papers will appear in the workshop proceedings. We welcome papers with a maximum of 2 pages for non-archival submission. Please send us an email if you are submitting the non-archival submission. The limitation section is optional and will not be counted in the page limit. The submission portal is open on <a href="**https://openreview.net/group?id=NAACL/2025/Workshop/CALCS">OpenReview</a>.
 
 
-<h2 class="subtitle" id="shared-task"><a href="#shared-task" class="text-primary-red">Shared Task on Automatic Evaluation for CS Text Generation</a></h2>
+<h2 class="subtitle" id="shared-task"><a href="#shared-task" class="text-primary-red">Shared Task on Automatic Evaluation for Code-Switched Text Generation</a></h2>
 <hr class="custom-line">
 
 <p>
-To enrich the CS community and enhance language inclusivity, we plan to organize a shared-task competition focused on automatically evaluating synthetically generated CS text. Automatic CS text generation is valuable for various tasks, especially given the scarcity of such data. Data augmentation has been effective in improving model performance across tasks and languages. The need for CS text in dialogue systems highlights the benefits of enabling chatbots to produce CS sentences. As the demand for generating CS text increases, robust evaluation methods are essential to assess accuracy and fluency. This area still lacks sufficient research in data and methodologies. Our shared task aims to enable further progress in this field.
+This shared task focuses on developing automatic evaluation metrics for code-switched (CS) text generation. Participants are tasked with creating systems that can accurately assess the quality of synthetically generated CS text, considering both fluency and accuracy. This is crucial because:
 </p>
+
+<ul>
+  <li><b>Scarcity of CS Data:</b> CS text data is limited, making automatic generation vital for data augmentation and improving model performance.</li>
+  <li><b>Growing Demand:</b> The need for CS text is increasing, particularly in dialogue systems and chatbots, to enable more natural and inclusive interactions.</li>
+  <li><b>Lack of Robust Evaluation:</b> Current methods for evaluating CS text are insufficient, hindering progress in this field.</li>
+</ul>
+
+<p>This shared task aims to address this gap and drive further research in automatic evaluation metrics for CS text generation.</p>
+
+<h3 class="subtitle">Languages Supported:</h3>
+
+<ul>
+  <li><b>Public Leaderboard:</b> English-Hindi, English-Tamil, English-Malayalam</li>
+  <li><b>Private Leaderboard:</b> English-Indonesian, Indonesian-Javanese, Singlish (English-Chinese)</li>
+</ul>
+
+<h3 class="subtitle">Metric:</h3>
+
+<p><b>Accuracy:</b> Systems will be evaluated based on their accuracy in predicting human preferences for CS text. This will be measured by comparing the system's ranking of generated sentences (Sent 1 vs. Sent 2) with human annotations in the CSPref dataset.</p>
+
+<h3 class="subtitle">Dataset:</h3>
+
+<p>The CSPref dataset will be used for this task. It contains:</p>
+<ul>
+  <li><b>Original L1:</b> English sentences</li>
+  <li><b>Original L2:</b> Hindi, Tamil, or Malayalam sentences</li>
+  <li><b>Sent 1, Sent 2:</b> Two different CS generations based on the original sentences.</li>
+  <li><b>Chosen:</b> Human annotation indicating the preferred sentence (Sent 1, Sent 2, or Tie).</li>
+  <li><b>Lang:</b> Language pair</li>
+</ul>
+<p>Data is available here: <a href="https://huggingface.co/datasets/garrykuwanto/cspref">https://huggingface.co/datasets/garrykuwanto/cspref</a></p> 
+
+<h3 class="subtitle">Evaluation:</h3>
+
+<ul>
+  <li>Systems will be ranked on a public leaderboard based on their accuracy in predicting human preferences on the English-Hindi, English-Tamil, and English-Malayalam language pairs.</li>
+  <li>A private leaderboard will evaluate system performance on unseen language pairs (English-Indonesian, Indonesian-Javanese, Singlish) to assess generalization ability.</li>
+</ul>
+
+<h3 class="subtitle">Submission:</h3>
+
+<ul>
+  <li>Participants will submit their system's predictions for each instance in the test set, indicating their preferred sentence (Sent 1, Sent 2, or Tie).</li>
+</ul>
+
+<h3 class="subtitle">Goal:</h3>
+
+<p>The goal of this shared task is to encourage the development of robust and reliable automatic evaluation metrics for CS text generation, ultimately leading to more fluent and accurate CS language models.</p>
+
+<h3 class="subtitle">Competition Page:</h3>
+
+<p>For more information about the competition, please visit the competition page: <a href="https://eval.ai/web/challenges/challenge-page/2437/overview">https://eval.ai/web/challenges/challenge-page/2437/overview</a></p>
 
 <h2 class="subtitle" id="important-dates"><a href="#important-dates" class="text-primary-red">Important Dates</a></h2>
 <hr class="custom-line">
