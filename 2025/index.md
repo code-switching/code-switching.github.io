@@ -195,7 +195,7 @@ This shared task focuses on developing automatic evaluation metrics for code-swi
 <h2 class="subtitle" id="important-dates"><a href="#important-dates" class="text-primary-red">Important Dates</a></h2>
 <hr class="custom-line">
 <h3 class="subtitle">Paper Submission</h3>
-- Workshop submission deadline (regular and non-archival submissions): 7 February 2025
+- Workshop submission deadline (regular and non-archival submissions): 10 February 2025
 - Notification of acceptance: 8 March 2025
 - Camera ready papers due: 17 March 2025
 - Workshop date: 3/4 May 2025
