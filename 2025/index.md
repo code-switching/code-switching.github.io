@@ -190,12 +190,12 @@ This shared task focuses on developing automatic evaluation metrics for code-swi
 
 <h3 class="subtitle">Competition Page:</h3>
 
-<p>For more information about the competition, please visit the competition page: <a href="https://eval.ai/web/challenges/challenge-page/2437/overview">https://eval.ai/web/challenges/challenge-page/2437/overview</a></p>
+<p>For more information about the competition, please visit the competition page: <a href="https://eval.ai/web/challenges/challenge-page/2437/overview">https://eval.ai/web/challenges/challenge-page/2437/overview</a> or alternatively <a href="https://www.kaggle.com/competitions/calcs-shared-task-2025/overview">https://www.kaggle.com/competitions/calcs-shared-task-2025/overview</a></p>
 
 <h2 class="subtitle" id="important-dates"><a href="#important-dates" class="text-primary-red">Important Dates</a></h2>
 <hr class="custom-line">
 <h3 class="subtitle">Paper Submission</h3>
-- Workshop submission deadline (regular and non-archival submissions): 21 February 2025
+- Workshop submission deadline (regular and non-archival submissions): 25 February 2025
 - Notification of acceptance: 8 March 2025
 - Camera ready papers due: 17 March 2025
 - Workshop date: 3/4 May 2025
@@ -203,7 +203,7 @@ This shared task focuses on developing automatic evaluation metrics for code-swi
 <h3 class="subtitle">Shared Task Submission</h3>
 - Train release and platform: 23 January 2025
 - Test release: 14 February 2025
-- Results submission: 21 February 2025
+- Results submission: 25 February 2025
 - Paper submission: 28 February 2025
 - Notification deadline: 8 March 2025
 
