@@ -195,17 +195,17 @@ This shared task focuses on developing automatic evaluation metrics for code-swi
 <h2 class="subtitle" id="important-dates"><a href="#important-dates" class="text-primary-red">Important Dates</a></h2>
 <hr class="custom-line">
 <h3 class="subtitle">Paper Submission</h3>
-- Workshop submission deadline (regular and non-archival submissions): 25 February 2025
-- Notification of acceptance: 8 March 2025
-- Camera ready papers due: 17 March 2025
-- Workshop date: 3/4 May 2025
+- Workshop submission deadline (regular and non-archival submissions): 13 March 2025
+- Notification of acceptance: 17 March 2025
+- Camera ready papers due: 24 March 2025
+- Workshop date: 3 May 2025
   
 <h3 class="subtitle">Shared Task Submission</h3>
 - Train release and platform: 23 January 2025
 - Test release: 14 February 2025
 - Results submission: 25 February 2025
-- Paper submission: 28 February 2025
-- Notification deadline: 8 March 2025
+- Paper submission: 13 March 2025
+- Notification deadline: 17 March 2025
 
 All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”). 
 
@@ -223,21 +223,6 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
     </div>
 </div>
 -->
-
-<div class="program-committee">
-    <h2 class="subtitle" id="program-committee-id"><a href="#program-committee-id" class="text-primary-red">Program Committee</a></h2>
-    <hr class="custom-line">
-    <div>
-        {% for person in page.program_committee %}
-        <div class="person-pc">
-            <span class="text-primary-red name">{{person.name}}</span>
-            <span>&nbsp;&nbsp;</span>
-            <span>{{person.affliation}}</span>
-        </div>
-        {% endfor %}
-    </div>
-</div>
-
 <div class="organizer-committee">
     <h2 class="subtitle text-primary-red" id="organizers-id"><a href="#organizers-id" class="text-primary-red">Organizers</a></h2>
     <hr class="custom-line">
