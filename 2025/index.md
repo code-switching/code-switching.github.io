@@ -226,7 +226,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
     <div>
         {% for person in page.keynote_speakers %}
         <div class="person">
-            <img src="{{person.photo}}" style="border-radius: 50%;float:left;padding:10px;margin-right:5px" width="115px">
+            <img src="{{person.photo}}" style="border-radius: 50%;padding:10px;margin-right:5px" width="115px">
             <div><a href="{{person.link}}" class="text-primary-red name">{{person.name}}</a></div>
             <div>{{person.affliation}}</div>
         </div>
