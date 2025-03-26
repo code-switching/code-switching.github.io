@@ -96,6 +96,16 @@ organizers:
       fields:
         - Professor, MBZUAI, UAE
         - Professor, University of Houston, USA
+keynote_speakers:
+    - name: Sunayana Sitaram
+      affliation: Microsoft
+      photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/organizers/sunayana.jpg
+    - name: Monojit Choudhury
+      affliation: MBZUAI
+      photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/organizers/monojit.jpg
+    - name: Alham Fikri Aji
+      affliation: MBZUAI
+      photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/assets/keynote_speakers/aji.jpg
 ---
 
 <h2 class="subtitle" id="call-for-papers"><a href="#call-for-papers" class="text-primary-red">First Call for Papers</a></h2>
@@ -206,23 +216,25 @@ This shared task focuses on developing automatic evaluation metrics for code-swi
 - Results submission: 25 February 2025
 - Paper submission: 13 March 2025
 - Notification deadline: 17 March 2025
+- Camera ready papers due: 27 March 2025
 
 All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”). 
 
-<!-- <div class="invited-speakers">
-    <h2 class="subtitle" id="invited-speakers-id"><a href="#invited-speakers-id" class="text-primary-red">Invited Speakers</a></h2>
+<div class="invited-speakers">
+    <h2 class="subtitle" id="invited-speakers-id"><a href="#invited-speakers-id" class="text-primary-red">Keynote Speakers</a></h2>
     <hr class="custom-line">
     <div>
-        {% for person in page.invited_speakers %}
-        <div class="person-pc">
+        {% for person in page.keynote_speakers %}
+        <div class="person">
+            <img src="{{person.photo}}" style="border-radius: 50%;float:left;padding:10px;margin-right:5px" width="115px">
             <span><a href="{{person.link}}" class="text-primary-red name">{{person.name}}</a></span>
             <span>&nbsp;&nbsp;</span>
-            <span>{{person.affiliation}}</span>
+            <span>{{person.affliation}}</span>
         </div>
         {% endfor %}
     </div>
 </div>
--->
+
 <div class="organizer-committee">
     <h2 class="subtitle text-primary-red" id="organizers-id"><a href="#organizers-id" class="text-primary-red">Organizers</a></h2>
     <hr class="custom-line">
