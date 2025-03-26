@@ -105,7 +105,7 @@ keynote_speakers:
       photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/organizers/monojit.jpg
     - name: Alham Fikri Aji
       affliation: MBZUAI
-      photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/assets/keynote_speakers/aji.jpg
+      photo: https://github.com/code-switching/code-switching.github.io/raw/master/2025/assets/keynote_speakers/aji.jpg
 ---
 
 <h2 class="subtitle" id="call-for-papers"><a href="#call-for-papers" class="text-primary-red">First Call for Papers</a></h2>
@@ -227,9 +227,8 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
         {% for person in page.keynote_speakers %}
         <div class="person">
             <img src="{{person.photo}}" style="border-radius: 50%;float:left;padding:10px;margin-right:5px" width="115px">
-            <span><a href="{{person.link}}" class="text-primary-red name">{{person.name}}</a></span>
-            <span>&nbsp;&nbsp;</span>
-            <span>{{person.affliation}}</span>
+            <div><a href="{{person.link}}" class="text-primary-red name">{{person.name}}</a></div>
+            <div>{{person.affliation}}</div>
         </div>
         {% endfor %}
     </div>
