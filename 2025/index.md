@@ -96,6 +96,17 @@ organizers:
       fields:
         - Professor, MBZUAI, UAE
         - Professor, University of Houston, USA
+panelists:
+    - name: Genta Indra Winata
+      affliation: Capital One AI Foundations
+      photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/organizers/genta.jpg
+    - name: Monojit Choudhury
+      affliation: MBZUAI
+      photo: https://github.com/code-switching/code-switching.github.io/raw/master/2023/organizers/monojit.jpg
+    - name: Ruochen Zhang
+      affliation: Brown University
+      photo: https://github.com/code-switching/code-switching.github.io/raw/master/2025/assets/panelists/ruochen.jpg
+
 keynote_speakers:
     - name: Sunayana Sitaram
       affliation: Microsoft
@@ -202,6 +213,126 @@ This shared task focuses on developing automatic evaluation metrics for code-swi
 
 <p>For more information about the competition, please visit the competition page: <a href="https://eval.ai/web/challenges/challenge-page/2437/overview">https://eval.ai/web/challenges/challenge-page/2437/overview</a> or alternatively <a href="https://www.kaggle.com/competitions/calcs-shared-task-2025/overview">https://www.kaggle.com/competitions/calcs-shared-task-2025/overview</a></p>
 
+<div class="program">
+    <h2 class="subtitle" id="program"><a href="#program" class="text-primary-red">Program</a></h2>
+    <hr class="custom-line">
+    <div>
+        <table border="1" cellspacing="10">
+          <thead>
+            <tr>
+              <th width="14%"></th>
+              <th style="text-align:center;">CALCS @ NAACL 2025 <br /> Saturday, May 3, 2025 (Mountain Daylight Time, UTC-06:00)</th>
+              <th width="14%">Presentation Type</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td valign="top">09:00 - 10:30</td>
+              <td colspan="2"><strong>Morning Session I</strong></td>
+            </tr>
+            <tr>
+              <td valign="top">09:00 - 09:05</td>
+              <td colspan="2"><em><font color="red">Welcome Remarks</font></em> <br />Genta Indra Winata</td>
+            </tr>
+            <tr>
+              <td valign="top">09:05 - 09:50</td>
+              <td><em><font color="red">Invited Talk: The History and Evolution of Code-Switching Evaluation in NLP</font></em> <br />Sunayana Sitaram</td>
+              <td>Virtual</td>
+            </tr>
+            <tr>
+              <td valign="top">09:50 - 10:35</td>
+              <td><em><font color="red">Invited Talk: title to confirm</font></em> <br />Alham Fikri Aji</td>
+              <td>Virtual</td>
+            </tr>
+            <tr>
+              <td valign="top">10:35 - 11:00</td>
+              <td colspan="2"><strong><em>Coffee Break</em></strong></td>
+            </tr>
+            <tr>
+              <td valign="top">11:00 - 12:30</td>
+              <td colspan="2"><strong>Morning Session II</strong></td>
+            </tr>
+            <tr>
+              <td valign="top">11:00 - 11:15</td>
+              <td><em><font color="red">CALCS 2025 Shared Task Overview</font></em> <br />Barid Xi Ai</td>
+              <td>Virtual</td> 
+            </tr>
+            <tr>
+              <td valign="top"><strong>11:15 - 11:30</strong></td>
+              <td><em><font color="red">LexiLogic@CALCS 2025: Predicting Preferences in Generated Code-Switched Text</font></em> <br />Pranav Gupta, Souvik Bhattacharyya, Niranjan kumar M, Billodal Roy</td>
+              <td>Virtual</td> 
+            </tr>
+            <tr>
+              <td valign="top"><strong>11:30 - 11:45</strong></td>
+              <td><em><font color="red">The Impact of Code-switched Synthetic Data Quality is Task Dependent: Insights from MT and ASR</font></em> <br />Injy Hamed, Thang Vu, Nizar Habash</td>
+              <td>Virtual</td> 
+            </tr>
+            <tr>
+              <td valign="top"><strong>11:45 - 12:00</strong></td>
+              <td><em><font color="red">Where and How Do Languages Mix? A Study of Spanish-Guaraní Code-Switching in Paraguay</font></em> <br />Olga Kellert, Nemika Tyagi</td>
+              <td>Virtual</td> 
+            </tr>
+            <tr>
+              <td valign="top">12:00 - 13:30</td>
+              <td colspan="2"><strong><em>Lunch Break</em></strong></td>
+            </tr>
+            <tr>
+              <td valign="top">13:30 - 15:30</td>
+              <td colspan="2"><strong>Afternoon Session I</strong></td>
+            </tr>
+            <tr>
+              <td valign="top">13:30 - 14:15</td>
+              <td><em><font color="red">Invited Talk: Code-Mixing as Social Strategy: Identity, Accommodation, and Implications for Chatbots</font></em>  <br /> Monojit Choudhury </td>
+              <td>In Person (to confirm)</td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>14:15 - 15:00</strong></td>
+              <td><em><font color="red">Panel Discussion: Multilingual LLMs & Code-Switching</font></em>  <br /> Ruochen Zhang, Monojit Choudhury, Genta Indra Winata </td>
+              <td>In Person</td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>15:00 - 15:15</strong></td>
+              <td><em><font color="red">Code-Switching Red-Teaming: LLM Evaluation for Safety and Multilingual Understanding</font></em>  <br /> Haneul Yoo, Yongjin Yang, Hwaran Lee </td>
+              <td>In Person</td>
+            </tr>
+            <tr>
+              <td valign="top">15:15 - 15:30</td>
+              <td><em><font color="red">Code-Switching Curriculum Learning for Multilingual Transfer in LLMs</font></em> <br />Haneul Yoo, Cheonbok Park, Sangdoo Yun, Alice Oh, Hwaran Lee</td>
+              <td>In Person</td>
+            </tr>
+            <tr>
+              <td valign="top">15:30 - 16:00</td>
+              <td colspan="2"><strong><em>Coffee Break</em></strong></td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>16:00 - 17:00</strong></td>
+              <td><strong>Afternoon Session II</strong></td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>16:00 - 16:15</strong></td>
+              <td><em><font color="red">Beyond Monolingual Limits: Fine-Tuning Monolingual ASR for Yoruba-English Code-Switching</font></em> <br />Oreoluwa Boluwatife Babatunde, Victor Tolulope Olufemi, Emmanuel Bolarinwa, Kausar Yetunde Moshood, Chris Chinenye Emezue</td>
+              <td>In Person</td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>16:15 - 16:30</strong></td>
+              <td><em><font color="red">EuskañolDS: A Naturally Sourced Corpus for Basque-Spanish Code-Switching</font></em> <br />Maite Heredia, Jeremy Barnes, Aitor Soroa</td>
+              <td>In Person</td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>16:30 - 16:45</strong></td>
+              <td><em><font color="red">Tongue-Tied: Breaking LLMs Safety Through New Language Learning</font></em> <br />Bibek Upadhayay, Vahid Behzadan</td>
+              <td>In Person</td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>16:45 - 16:50</strong></td>
+              <td><em><font color="red">Closing Remarks</font></em> <br />Marina Zhukova</td>
+              <td>In Person</td>
+            </tr>
+          </tbody>
+        </table>
+    </div>
+</div>
+
 <h2 class="subtitle" id="important-dates"><a href="#important-dates" class="text-primary-red">Important Dates</a></h2>
 <hr class="custom-line">
 <h3 class="subtitle">Paper Submission</h3>
@@ -225,6 +356,20 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
     <hr class="custom-line">
     <div>
         {% for person in page.keynote_speakers %}
+        <div class="person">
+            <img src="{{person.photo}}" style="border-radius: 50%;padding:10px;margin-right:5px" width="115px">
+            <div><a href="{{person.link}}" class="text-primary-red name">{{person.name}}</a></div>
+            <div>{{person.affliation}}</div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<div class="panelists">
+    <h2 class="subtitle" id="panelists-id"><a href="#panelists-id" class="text-primary-red">Panelists</a></h2>
+    <hr class="custom-line">
+    <div>
+        {% for person in page.panelists %}
         <div class="person">
             <img src="{{person.photo}}" style="border-radius: 50%;padding:10px;margin-right:5px" width="115px">
             <div><a href="{{person.link}}" class="text-primary-red name">{{person.name}}</a></div>
