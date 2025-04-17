@@ -227,7 +227,7 @@ This shared task focuses on developing automatic evaluation metrics for code-swi
           </thead>
           <tbody>
             <tr>
-              <td valign="top">09:00 - 10:30</td>
+              <td valign="top"><strong>09:00 - 10:30</strong></td>
               <td colspan="2"><strong>Morning Session I</strong></td>
             </tr>
             <tr>
@@ -245,11 +245,11 @@ This shared task focuses on developing automatic evaluation metrics for code-swi
               <td>Virtual</td>
             </tr>
             <tr>
-              <td valign="top">10:35 - 11:00</td>
+              <td valign="top"><strong>10:35 - 11:00</strong></td>
               <td colspan="2"><strong><em>Coffee Break</em></strong></td>
             </tr>
             <tr>
-              <td valign="top">11:00 - 12:30</td>
+              <td valign="top"><strong>11:00 - 12:30</strong></td>
               <td colspan="2"><strong>Morning Session II</strong></td>
             </tr>
             <tr>
@@ -258,26 +258,26 @@ This shared task focuses on developing automatic evaluation metrics for code-swi
               <td>Virtual</td> 
             </tr>
             <tr>
-              <td valign="top"><strong>11:15 - 11:30</strong></td>
+              <td valign="top">11:15 - 11:30</td>
               <td><em><font color="red">LexiLogic@CALCS 2025: Predicting Preferences in Generated Code-Switched Text</font></em> <br />Pranav Gupta, Souvik Bhattacharyya, Niranjan kumar M, Billodal Roy</td>
               <td>Virtual</td> 
             </tr>
             <tr>
-              <td valign="top"><strong>11:30 - 11:45</strong></td>
+              <td valign="top">11:30 - 11:45</td>
               <td><em><font color="red">The Impact of Code-switched Synthetic Data Quality is Task Dependent: Insights from MT and ASR</font></em> <br />Injy Hamed, Thang Vu, Nizar Habash</td>
               <td>Virtual</td> 
             </tr>
             <tr>
-              <td valign="top"><strong>11:45 - 12:00</strong></td>
+              <td valign="top">11:45 - 12:00</td>
               <td><em><font color="red">Where and How Do Languages Mix? A Study of Spanish-Guaraní Code-Switching in Paraguay</font></em> <br />Olga Kellert, Nemika Tyagi</td>
               <td>Virtual</td> 
             </tr>
             <tr>
-              <td valign="top">12:00 - 13:30</td>
+              <td valign="top"><strong>12:00 - 13:30</strong></td>
               <td colspan="2"><strong><em>Lunch Break</em></strong></td>
             </tr>
             <tr>
-              <td valign="top">13:30 - 15:30</td>
+              <td valign="top"><strong>13:30 - 15:30</strong></td>
               <td colspan="2"><strong>Afternoon Session I</strong></td>
             </tr>
             <tr>
@@ -286,12 +286,12 @@ This shared task focuses on developing automatic evaluation metrics for code-swi
               <td>In Person (to confirm)</td>
             </tr>
             <tr>
-              <td valign="top"><strong>14:15 - 15:00</strong></td>
+              <td valign="top">14:15 - 15:00</td>
               <td><em><font color="red">Panel Discussion: Multilingual LLMs & Code-Switching</font></em>  <br /> Ruochen Zhang, Monojit Choudhury, Genta Indra Winata </td>
               <td>In Person</td>
             </tr>
             <tr>
-              <td valign="top"><strong>15:00 - 15:15</strong></td>
+              <td valign="top">15:00 - 15:15</td>
               <td><em><font color="red">Code-Switching Red-Teaming: LLM Evaluation for Safety and Multilingual Understanding</font></em>  <br /> Haneul Yoo, Yongjin Yang, Hwaran Lee </td>
               <td>In Person</td>
             </tr>
@@ -301,7 +301,7 @@ This shared task focuses on developing automatic evaluation metrics for code-swi
               <td>In Person</td>
             </tr>
             <tr>
-              <td valign="top">15:30 - 16:00</td>
+              <td valign="top"><strong>15:30 - 16:00</strong></td>
               <td colspan="2"><strong><em>Coffee Break</em></strong></td>
             </tr>
             <tr>
@@ -309,22 +309,22 @@ This shared task focuses on developing automatic evaluation metrics for code-swi
               <td><strong>Afternoon Session II</strong></td>
             </tr>
             <tr>
-              <td valign="top"><strong>16:00 - 16:15</strong></td>
+              <td valign="top">16:00 - 16:15</td>
               <td><em><font color="red">Beyond Monolingual Limits: Fine-Tuning Monolingual ASR for Yoruba-English Code-Switching</font></em> <br />Oreoluwa Boluwatife Babatunde, Victor Tolulope Olufemi, Emmanuel Bolarinwa, Kausar Yetunde Moshood, Chris Chinenye Emezue</td>
               <td>In Person</td>
             </tr>
             <tr>
-              <td valign="top"><strong>16:15 - 16:30</strong></td>
+              <td valign="top">16:15 - 16:30</td>
               <td><em><font color="red">EuskañolDS: A Naturally Sourced Corpus for Basque-Spanish Code-Switching</font></em> <br />Maite Heredia, Jeremy Barnes, Aitor Soroa</td>
               <td>In Person</td>
             </tr>
             <tr>
-              <td valign="top"><strong>16:30 - 16:45</strong></td>
+              <td valign="top">16:30 - 16:45</td>
               <td><em><font color="red">Tongue-Tied: Breaking LLMs Safety Through New Language Learning</font></em> <br />Bibek Upadhayay, Vahid Behzadan</td>
               <td>In Person</td>
             </tr>
             <tr>
-              <td valign="top"><strong>16:45 - 16:50</strong></td>
+              <td valign="top">16:45 - 16:50</td>
               <td><em><font color="red">Closing Remarks</font></em> <br />Marina Zhukova</td>
               <td>In Person</td>
             </tr>
