@@ -239,7 +239,7 @@ This shared task focuses on developing automatic evaluation metrics for code-swi
             </tr>
             <tr>
               <td valign="top">09:50 - 10:35</td>
-              <td><em><font color="red">Invited Talk: title to confirm</font></em> <br />Alham Fikri Aji</td>
+              <td><em><font color="red">Invited Talk: Code-Switching Thought Patterns in Multilingual Language Models</font></em> <br />Alham Fikri Aji</td>
             </tr>
             <tr>
               <td valign="top"><strong>10:35 - 11:00</strong></td>
