@@ -250,10 +250,6 @@ This shared task focuses on developing automatic evaluation metrics for code-swi
               <td><strong>Morning Session II</strong></td>
             </tr>
             <tr>
-              <td valign="top">11:00 - 11:15</td>
-              <td><em><font color="red">CALCS 2025 Shared Task Overview</font></em> <br />Barid Xi Ai</td>
-            </tr>
-            <tr>
               <td valign="top">11:15 - 11:30</td>
               <td><em><font color="red">LexiLogic@CALCS 2025: Predicting Preferences in Generated Code-Switched Text</font></em> <br />Pranav Gupta, Souvik Bhattacharyya, Niranjan kumar M, Billodal Roy</td>
             </tr>
