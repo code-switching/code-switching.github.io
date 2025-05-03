@@ -278,7 +278,7 @@ This shared task focuses on developing automatic evaluation metrics for code-swi
             </tr>
             <tr>
               <td valign="top">14:15 - 15:00</td>
-              <td><em><font color="red">Panel Discussion: Multilingual LLMs & Code-Switching</font></em>  <br /> Ruochen Zhang, Monojit Choudhury, Genta Indra Winata </td>
+              <td><em><font color="red">Panel Discussion: Multilingual LLMs & Code-Switching</font></em>  <br /> Ruochen Zhang, Monojit Choudhury, Genta Indra Winata, David Ifeoluwa Adelani</td>
             </tr>
             <tr>
               <td valign="top">15:00 - 15:15</td>
