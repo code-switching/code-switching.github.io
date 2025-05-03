@@ -106,6 +106,9 @@ panelists:
     - name: Ruochen Zhang
       affliation: Brown University
       photo: https://github.com/code-switching/code-switching.github.io/raw/master/2025/assets/panelists/ruochen.jpg
+    - name: David Ifeoluwa Adelani
+      affliation: McGill University and MILA
+      photo:  https://github.com/code-switching/code-switching.github.io/raw/master/2025/assets/panelists/david.png
 
 keynote_speakers:
     - name: Sunayana Sitaram
